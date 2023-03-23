@@ -7,8 +7,10 @@ NOTE- SITE STILL UNDER CONSTRUCTION
 # PROCESS
 # DATA EXTRACTION
 The data were scraped from popular job sites, the scrapers are built using selenium and are provided in the repository. The scrapers are specific to certain job sites as the sites structures are taken into consideration. Also the scrapers are reusable but extra attention needs to be placed on html paths as they are prone to change.
+NOTE- CHECK SCRAPERS FOLDER
 # DATA PROCESSING 
 As all data life cycle begins with cleaning, this project is no different. In order to get the desired information NLP and Regex were employed especially for the job requirements. Visualization was used to gain insights on the data and help build the idea for the next phase of the project
+NOTE- CHECK NOTEBOOK FOLDER
 # WEB STRUCTURE
 The backend is built using Flask framework, the frontend / dashboard is built on React and Chart.js
 # CONTRIBUTIONS
