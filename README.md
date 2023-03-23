@@ -13,9 +13,11 @@ As all data life cycle begins with cleaning, this project is no different. In or
 The backend is built using Flask framework, the frontend / dashboard is built on React and Chart.js
 # CONTRIBUTIONS
 There are a few contributions that would fit right into the projects expansions plans, if you wish to contribute please don’t hesitate to reach out. 
-Build a data pipeline for continuous data extraction from these jobs sites
-Build a model that uses this data to predict job requirements for each data field and translates directly to the dashboard
-More plots and analytics to be added to the dashboard
-Bigram/n-gram analysis
+
+-Build a data pipeline for continuous data extraction from these jobs sites
+
+-Build a model that uses this data to predict job requirements for each data field and translates directly to the dashboard
+
+-More plots and analytics to be added to the dashboard
 # CREDIT
 https://github.com/olaoluwaidowu
