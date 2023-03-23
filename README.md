@@ -2,6 +2,8 @@
 The saying, learning the languages, libraries and frameworks required for a career in tech is hard but getting a job in tech is even harder relates strongly with the Nigeria tech industry. As a data professional, I am more interested in the Nigeria data professional ecosystem which seems to be more arduous with internships barely existent and Job requirements are extensive and far from the reach of entry level professionals
 This project was developed with the goal of accumulating the large amount of open-source job description data in Nigeria, analyzing it and presenting the data in a visualizing pleasing format for aspiring data professionals to take insights from
 
+NOTE- SITE STILL UNDER CONSTRUCTION
+
 # PROCESS
 # DATA EXTRACTION
 The data were scraped from popular job sites, the scrapers are built using selenium and are provided in the repository. The scrapers are specific to certain job sites as the sites structures are taken into consideration. Also the scrapers are reusable but extra attention needs to be placed on html paths as they are prone to change.
