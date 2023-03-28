@@ -14,7 +14,7 @@ As all data life cycle begins with data cleaning, this project is no different. 
 
 NOTE- CHECK NOTEBOOK FOLDER
 # WEB STRUCTURE
-The backend is built using Flask framework, the frontend / dashboard is built on React, Next and Chart.js
+The backend is built on Flask framework, the frontend / dashboard is built with React, Next and Chart.js
 # CONTRIBUTIONS
 There are a few contributions that would fit right into the projects expansions plans, if you wish to contribute please don’t hesitate to reach out. 
 
