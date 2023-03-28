@@ -1,6 +1,6 @@
 # INTRODUCTION
-The saying, learning the languages, libraries and frameworks required for a career in tech is hard but getting a job in tech is even harder relates strongly with the Nigeria tech industry. As a data professional, I am more interested in the Nigeria data professional ecosystem which seems to be more arduous with internships barely existent and Job requirements are extensive and far from the reach of entry level professionals
-This project was developed with the goal of accumulating the large amount of open-source job description data in Nigeria, analyzing it and presenting the data in a visualizing pleasing format for aspiring data professionals to take insights from
+The saying, learning the languages, libraries and frameworks required for a career in tech is hard, but getting a job in tech is even harder relates strongly with the Nigeria tech industry. As a data professional, I am more interested in the Nigeria data professional ecosystem which seems to be more arduous with internships barely existent and Job requirements are extensive and far from the reach of entry level professionals.
+This project was developed with the goal of accumulating the large amount of open-source job description data in Nigeria, analyzing it and presenting the data in a visualizing pleasing format for aspiring data professionals to take insights from.
 
 NOTE- SITE STILL UNDER CONSTRUCTION
 
@@ -16,7 +16,7 @@ NOTE- CHECK NOTEBOOK FOLDER
 # WEB STRUCTURE
 The backend is built on Flask framework, the frontend / dashboard is built with React, Next and Chart.js
 # CONTRIBUTIONS
-There are a few contributions that would fit right into the projects expansions plans, if you wish to contribute please don’t hesitate to reach out. 
+There are a few contributions that would fit right into this project's expansions plans, if you wish to contribute please don’t hesitate to reach out. 
 
  •	Build a data pipeline for continuous data extraction from these jobs sites,so as to keep the information upto date.
  
