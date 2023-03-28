@@ -23,3 +23,4 @@ There are a few contributions that would fit right into the projects expansions 
  •	More plots and analytics to be added to the dashboard
 # CREDIT
 https://github.com/olaoluwaidowu
+https://github.com/Trust914/LinkedInJobSearchBot
