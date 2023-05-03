@@ -1,0 +1,37 @@
+.main {
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.home {
+    background-image: url('../images/bg-masthead.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .70;
+}
+
+
+.link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.dashboard {
+    background-color: #f5ebe8;
+    margin-top: 10px;
+    color: #000;
+    border-radius: 4px;
+    padding: 30px;
+    min-height: 100vh;
+}
+
+
+.not-found {
+    background-color: #eeeeee;
+    margin-top: 10px;
+    color: #000;
+    border-radius: 4px;
+    padding: 30px;
+    min-height: 100vh;
+}

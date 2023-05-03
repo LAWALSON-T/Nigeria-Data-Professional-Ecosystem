@@ -1,0 +1,65 @@
+SN,Job_Title,Company_Name,Location,Industry
+0,Data analyst,DelonJobs,Lagos,[]
+1,Data Engineer,McKinsey & Company ,Lagos,"['Investment & Asset Management', 'Business Consulting', 'Private Practice / Firm', 'HR Consulting', 'Management & Consulting']"
+2,Data analyst,Kimberly Ryan Limited,Lagos,[]
+3,Data Scientist,Treehouse Limited,Lagos,[]
+4,Data Scientist,Teams,Lagos,[]
+5,Data analyst,Iubenda ,Nigeria,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Information Technology', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Private Practice / Firm', 'Architectural & Engineering Services', 'Financial Services']"
+6,Data Architect,I’Tech Delta Investment Ltd,Lagos,[]
+7,Data analyst,Africa Resource Company,Lagos,[]
+8,Data analyst,Reposebay ,Lagos,[]
+9,Data analyst,Scruples Resources,Lagos,[]
+10,Data analyst,Lidya ,Lagos,"['Banking & Lending', 'Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Architectural & Engineering Services', 'Information Technology Support Services', 'Taxi & Car Services', 'Financial Transaction Processing', 'Private Practice / Firm', 'Financial Services']"
+11,Data analyst,Interswitch ,Lagos,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Architectural & Engineering Services', 'Information Technology Support Services', 'Taxi & Car Services', 'Financial Transaction Processing', 'Private Practice / Firm', 'Financial Services']"
+12,Data analyst,GVA Partners ,Lagos,[]
+13,Data Scientist,DelonJobs,Lagos,[]
+14,Machine learning engineer,I’Tech Delta Investment Ltd,Lagos,[]
+15,Data analyst,Xapo ,Nigeria,"['Construction Repair & Maintenance Services', 'Cable Internet & Telephone Providers', 'Education & Training Services', 'Civic & Social Services', 'Information Technology', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Private Practice / Firm', 'Architectural & Engineering Services', 'Financial Services']"
+16,Data Scientist,Mastercard ,Lagos,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Financial Transaction Processing', 'Architectural & Engineering Services', 'Financial Services']"
+17,Data analyst,NewGlobe ,Lagos,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Private Practice / Firm', 'Architectural & Engineering Services', 'Financial Services', 'Education']"
+18,Business Analyst,DelonJobs,Lagos,[]
+19,Business Analyst,Kuda ,Lagos,['Private Practice / Firm']
+20,Data Scientist,Standard Bank ,Lagos,"['Banking & Lending', 'Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Financial Transaction Processing', 'Architectural & Engineering Services', 'Financial Services']"
+21,Data Scientist,Diversiboard ,Nigeria,['Private Practice / Firm']
+22,Data Engineer,Eat N Go Limited ,Lagos,['Hospital']
+23,Data analyst,The Palladium Group (HQ) ,Nigeria,"['Investment & Asset Management', 'Business Consulting', 'Private Practice / Firm', 'HR Consulting', 'Management & Consulting']"
+24,Business Analyst,Cmargs Limited,Lagos,[]
+25,Business Analyst,TRUSOFT LIMITED,Lagos,[]
+26,Business Analyst,Engjae International Company LTD,Lagos,[]
+27,Business Analyst,Software Business Solutions Consulting,Lagos,[]
+28,Data Engineer,GVA Partners ,Lagos,[]
+29,Data Scientist,Elite Recruitment Group ,Lagos,"['Human Resources & Staffing', 'Business Consulting', 'Private Practice / Firm', 'HR Consulting', 'Management & Consulting']"
+30,Data Scientist,Field Intelligence ,Abuja,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Transportation & Logistics', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Architectural & Engineering Services', 'Financial Services']"
+31,Data Scientist,Jobberman (Third Party Recruitment) ,Nigeria,"['Construction', 'Repair & Maintenance Services', 'Cable Internet & Telephone Providers', 'Education & Training Services', 'Civic & Social Services', 'Information Technology', 'Internet & Web Services', 'Health services', 'Information Technology Support Services', 'Taxi & Car Services', 'Private Practice / Firm', 'Architectural & Engineering Services', 'Financial Services']"
+32,Data analyst,DelonJobs,Lagos,[]
+33,Data Scientist,Brickstone Africa ,Lagos,[]
+34,Data Scientist,British Council ,Abuja,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Nonprofit & NGO', 'Financial Services', 'Information Technology Support Services', 'Taxi & Car Services', 'Architectural & Engineering Services', 'Nonprofit Organization']"
+35,Data analyst,World Health Organization ,Abuja,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health Care Products Manufacturing', 'Health services', 'Nonprofit & NGO', 'Nonprofit Organization', 'Information Technology Support Services', 'Taxi & Car Services', 'Hospital', 'Architectural & Engineering Services', 'Financial Services']"
+36,Data analyst,Marie Stopes Nigeria ,Abuja,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Nonprofit & NGO', 'Financial Services', 'Information Technology Support Services', 'Taxi & Car Services', 'Architectural & Engineering Services', 'Nonprofit Organization']"
+37,Data analyst,Field Support Services Project,Abuja,[]
+38,Data Scientist,British Council ,Abuja,"['Construction Repair & Maintenance Services', 'Education & Training Services', 'Civic & Social Services', 'Internet & Web Services', 'Health services', 'Nonprofit & NGO', 'Financial Services', 'Information Technology Support Services', 'Taxi & Car Services', 'Architectural & Engineering Services', 'Nonprofit Organization']"
+39,Data Scientist,Veegil Media ,Lagos,['Private Practice / Firm']
+40,Data analyst,God's City International Church,Abuja,[]
+41,Data Scientist,GE (NYSE:GE) ,Abuja,[]
+42,Data Scientist,Moniepoint ,Lagos,['Private Practice / Firm']
+43,Data Scientist,Lassod Consulting Ltd,Nigeria,['Private Practice / Firm']
+44,Data Architect,ADD.apt,Lagos,[]
+45,Data analyst,Aspire Consulting,Lagos,['Private Practice / Firm']
+46,Data Scientist,ValueGate Consulting,Abuja,['Private Practice / Firm']
+47,Data Scientist,SHL,Osogbo,[]
+48,Data Scientist,SHL,Lekki,[]
+49,Data analyst,Global Profilers,Lagos,['Private Practice / Firm']
+50,Data Engineer,Transsion Holdings,Lagos,['Information Technology']
+51,Data analyst,Team Ace,Lagos,['Private Practice / Firm']
+52,Data Engineer,Paystack,Abuja,['Information Technology Support Services']
+53,Data Scientist,Loctech Nigeria Limited,Rivers,['Education & Training Services']
+54,Business Analyst,Alpha mead,Lagos,['Private Practice / Firm']
+55,Data Scientist,Palladium,Abuja,['Private Practice / Firm']
+56,Data Scientist,mDoc Healthcare,Lagos,['Health services']
+57,Data Architect,ipNX,Lagos,['Information Technology']
+58,Data analyst,ipNX,Lagos,['Information Technology']
+59,Business Analyst,ipNX,Lagos,['Information Technology']
+60,Data analyst,NTT data services,Crossriver,['IT service management']
+61,Data Engineer,Groundspeed Analytics,Lagos,['Internet & Web Services']
+62,Data analyst,NewGlobe,Lagos,['Education & Training Services']
+63,Data Engineer,DelonJobs,Lagos,['Private Practice / Firm']
