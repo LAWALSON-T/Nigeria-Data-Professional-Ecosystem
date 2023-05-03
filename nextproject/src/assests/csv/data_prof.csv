@@ -1,0 +1,1808 @@
+,job_title,company_name,location,description,workplace_type,word_count,Tools,Skills,Years_of_Experience,years,experience,Education_Level
+1,Business Analyst,  Kuda  ,  Nigeria  ,"About the job
+Description
+
+Summary
+
+Kuda is a money app for Africans on a mission to make financial services accessible, affordable and rewarding for every African on the planet.
+
+We’re a tribe of passionate and diverse people who dreamed of building an inclusive money app that Africans would love so it’s only right that we ended up with the name ‘Kuda’ which means ‘love’ in Shona, a language spoken in the southern part of Africa.
+
+We’re giving Africans around the world a better alternative to traditional finance by delivering money transfers, smart budgeting and instant access to credit through digital devices.
+
+We’ve raised over $90 million from some of the world's most respected institutional investors, and we’re rolling out our game-changing services globally from our offices in Nigeria, South Africa, and the UK.
+
+Role overview:
+
+We’re looking for a passionate BI Analyst that can apply their data Illustrative and reporting skills to translate complex information into meaningful insights. Excelling in critical thinking, ensuring all data problems are solved.
+
+You must be able to transform data, gain understanding and use that insight to dig deeper and present a straightforward data story. Must be conformable, communicating findings and insight across multiple business levels.
+
+If you are passionate about data and applying yourself to business challenges excites you, we would love to hear from you.
+
+Roles and Responsibilities:
+Design, build, and maintain business intelligence solutions to elevate and showcase data-to-decision across the entire business
+Collaborate with product and business stakeholders to define how best to measure, monitor and understand customer behavior and product performance
+Develop compelling information visualizations and dashboards
+Deliver strategic initiatives to improve the quality and timeliness of data insights
+Deliver continuous optimizations strategies that continuously re-invent data products and insights
+Analyze business processes and analytical requirements that assist with decision-making processes
+
+Requirements
+3+ Years of experience in a Business Intelligence and/or Data Analyst role, with a focus on analyzing and understanding business problems
+Strong knowledge and proven experience using SQL
+Strong knowledge of and experience with tools like Looker, QlikView, Tableau or PowerBI
+Prior experience in designing and implementing performance measures to track business or product KPIs
+A fundamental in identifying patterns or regions in products or behaviors that indicate opportunities for business process improvement
+Excellent analytical and forecasting ability
+Strong written and verbal communication skills
+Understand current data protection and privacy laws, e.g., GDPR
+A degree in the information technology field (e.g., Statistics, Economics, Math, Science, Engineering)
+
+Advantageous:
+Experience working in AWS, Google Cloud or Azure
+Using dbt Cloud to perform data modelling.
+Experience using BigQuery data capabilities
+Good understanding of the software development process and best practices
+
+Benefits
+
+Why join Kuda?
+
+At Kuda, our people are the heart of our business, so we prioritize your welfare. We offer a wide range of competitive benefits in areas including but not limited to:
+Pension
+Competitive annual leave plus bank holidays
+Group life insurance
+Health insurance
+L&D training
+We are advocates of work-life balance and offer a 3 day per week remote working option
+
+Kuda is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Kuda is considered based on merit, qualifications, competence and talent.
+
+We don’t regard colour, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status. If you have a disability or special need that requires accommodation, please let us know.",On-site,570,"['Power BI', 'Azure', ' C/C++', 'BigQuery', ' PL/SQL', 'AWS', 'R', 'Google Cloud', 'Tableau', 'AWS S3', 'SQL']","['Data visualization', 'Statistics', 'Software engineering', 'Cloud computing', 'Data interpretation', 'communication', 'Natural language processing', 'Agile development', 'product development', 'Decision trees', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'quality control', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'optimization']",Not Specified,0,Not Specified,Not Specified
+2,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A multi-billion pharmaceutical giant is looking for a Junior ML Engineer. As a core member of a well-established team, the engineer will work on building models using machine learning techniques to power AI-based applications. Strong Python skills and a passion for data is important in this role. The company is listed in Fortune 500 in terms of revenue and is one of the only two US-based companies that have a prime credit rating of AAA. The company is worth over $435 bn. This is a once-in-a-lifetime opportunity for those who want to work with a multi-billion dollar MNC.
+
+Job Responsibilities:
+
+Apply your knowledge in the domain of AI/ML to create products with a great user experience 
+Understand project requirements to design an effective roadmap and manage the overall project lifecycle 
+Design and develop highly scalable models/tools/classifiers/algorithms with the help of AI and Machine Learning principles and techniques 
+Influence the technical direction of the projects and collaborate with cross-functional teams to communicate technical details effectively 
+Continuously integrate and ship code into the cloud environment
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+2+ years of hands-on real-world experience
+Strong Python skills and love for data
+Understanding of machine learning libraries, predictive modeling, pattern recognition, data mining, and recommendation systems 
+Knowledge of Artificial Neural Networks and Deep Learning Frameworks 
+Deep understanding of large systems, complex code bases, and version control systems such as Git",Remote,237,"['Power Query', 'Power BI', ' C/C++', 'H2O.ai', 'Python', 'Git', 'R', 'Google Cloud', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Neural networks', 'Cloud computing', 'Data interpretation', 'Reinforcement learning', 'Deep learning', 'Project management', 'Python programming', 'A/B testing', 'Version control', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'Computer vision', 'Classification algorithms', 'quality control', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+4,Data Scientist,  eHealth4everyone  ,  Abuja ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+eHealth4everyone is a digital health enterprise based in Nigeria (Africa) contributing to health service delivery using data science and information technology. At ehealth4everyone, our goal is saving lives and our approach is information and technology. We believe that if health is a right, proven digital health solutions and expertise such as ours should not be a privilege.
+
+Job Title: Python Data Scientist
+
+Location: Abuja (FCT)
+
+The Python Data Scientist will write scripts to query and manipulate large data sets.
+S/he will support the data team in the automation of the collection and analysis of data.
+S/he will extract data from different sources, analyse it in the best way possible and draws inferences from them.
+S/he may build specific AI tools for them to automate certain processes in the company.
+Defines product objectives by gathering and analysing user requirements; envisioning system features and functionality.
+Recommends data solutions by exploring the advantages and benefits of existing development against alternative development.
+Be involved in regular testing of data scrapping scripts and software products; unit testing and final testing.
+Writes and updates software test processes and procedures.
+Coordinates (or partakes in) the coding/programming of software products and solutions with version control systems such as git.
+Develop and maintain python scripts or applications to perform data scraping using the best available libraries in python.
+Development and maintenance of data pipeline processes.
+Implement requests to APIs and develop API modules with python.
+Perform Data Analysis, mining and visualization using relevant python libraries.
+Developing data models and algorithms best suited to a particular scenario.
+Employ sophisticated analytics programs, machine learning and statistical methods to prepare data for use in predictive and prescriptive modelling.
+Develop and maintain Natural Language processing applications using python’s NLTK library concepts.
+Write and implement test scripts for python programs.
+If the lead developer for a product or solution, he/she will do the following;
+Breaks down tasks into executable units,
+Assigns tasks to team members and allocates time,
+Manages product features – backlog manager,
+Responsible for managing and enforcing coding style and collaboration standards,
+Supports and coordinates team members with appropriate review and retrospectives.
+Involves in code review and optimization, and implements reviews made on products.
+Write reusable and testable codes.
+A Degree in Computer Science, Information Science, Mathematics or any closely related field is required.
+Minimum of 1 year experience.
+Sound knowledge of NumPy, Pandas, MatPlotLib or NLTK libraries.
+Good knowledge of relational and structural databases and how to create database schemas that represent and support business processes.
+Understands the design principles behind a scalable application.
+Sound knowledge of version control tools such as git.
+Strong knowledge of web server exploits and their solutions.
+Passion for best design and coding practices, and a desire to develop new interesting ideas.
+Top-notch programming skills and in-depth knowledge of modern data science/machine learning and natural language processing technologies.
+Teamwork.
+Good communication skills.
+Highly organized and pays extraordinary attention to detail.
+Must have the ability to act quickly and pragmatically under pressure, prioritise and resolve issues.
+Enthusiasm and high level of motivation.
+Application Closing Date
+
+27th December, 2022.
+
+Don't Keep! Kindly Share:",On-site,535,"['Power Query', ' C/C++', 'NLTK', 'Pandas', 'H2O.ai', 'Python', 'Git', 'AWS', 'R', ' Q-Learning', 'NumPy']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'database management', 'Agile development', 'optimization', 'product development', 'Deep learning', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Version control', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'Computer vision', 'analysis', 'Regression analysis', 'Classification algorithms', 'visualization', 'Support vector machines', 'quality control', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Collaboration', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",1 year,1,1 to 3 years,master
+6,Data Engineer,  Data2Bots  ,  Lagos ,About the job,On-site,3,[],[],Not Specified,0,Not Specified,Not Specified
+7,Machine learning engineer,  KAUST  King Abdullah University of Science and Technology   ,  Kano ,About the job,On-site,3,[],[],Not Specified,0,Not Specified,Not Specified
+8,Data Analyst,  TradeDepot  ,  Lagos ,About the job,On-site,3,[],[],Not Specified,0,Not Specified,Not Specified
+9,Data Engineer,  Turing  ,  Lagos ,About the job,Remote,3,[],[],Not Specified,0,Not Specified,Not Specified
+11,Machine learning engineer,  Choice Talents NG  ,  Lagos ,"About the job
+This job is sourced from a job board. Learn more
+Never Miss a Job Update Again.
+Company:
+Location: Nigeria
+State:
+Job type: Full-Time
+Job category:
+Job Description
+
+Choice Talents NG is Nigeria’s preferred recruiter, trainer, business consultant, business and employee performance manager, for all categories of businesses (small, medium, large, multi-nationals and corporations). Our goal is to help build successful businesses through effective talent, resource and process management.
+
+We Are Recruiting To Fill The Position Below
+
+Job Title: Artificial Intelligence Specialist
+
+Locations: Abuja (FCT) & Lagos
+
+Employment Type: Full-time
+
+Job Description
+Develop AI for strategy and simulation games.
+Write and maintain high-performance Python and LUA software code.
+Write technical documents describing core systems.
+Work closely with Design, Production, and QA.
+AI Engineer designs and develops scalable solutions using AI tools and machine-learning models.
+Performs research and testing to develop machine learning algorithms and predictive models.
+Utilization of big data computation and storage tools to create prototypes and datasets.
+Conducts model training and evaluation, integrates, tests, tunes, and monitors solutions.
+Requirements
+Bachelor’s Degree in Computer Science, Computer Engineering, Mathematics or a related field.
+3+ years experience in-game and/or software development.
+Familiarity with strategy and simulation games and open-world AI.
+Experience with AI techniques such as Behavior Trees, Decision Trees, and Pathfinding.
+Proficiency in one or more of the following: Python, Java, Javascript.
+Proficient in mathematics including linear algebra, trigonometry, and algorithm design.
+Passion for games and game design.
+Self-motivated and loves solving problems.
+One or more shipped game titles preferred.
+Familiarity with ECS (entity component system) architecture.
+Familiarity with multi-threaded programming.
+Proficient with multiple AI tools such as Python, Java, or R and machine learning frameworks like Spark, TensorFlow, or sciket-learn.
+Requires a Master’s Degree in Computer Science, Mathematics, Engineering or equivalent.
+Works on advanced, complex technical projects or business issues requiring state-of-the-art technical or industry knowledge.
+Application Closing Date
+
+31st December, 2022.
+
+Don't Keep! Kindly Share:",On-site,319,"['Scala Spark', ' C/C++', 'H2O.ai', 'sciket-learn', 'Javascript', 'Python', 'Spark', 'Scikit-Learn', 'R', 'Java', ' Q-Learning', 'Apache Spark', 'TensorFlow']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'Reinforcement learning', 'database management', 'Agile development', 'product development', 'Deep learning', 'Decision trees', 'Time series analysis', 'Project management', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'Classification algorithms', 'Ensemble learning', 'storage', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+12,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A fast-growing company that is developing an AI-powered platform to help business owners in the launch, management, and scaling of their enterprise by offering personalized guidance and insights, is looking for a Machine Learning Engineer. The engineer will be learning about the codebase, products and increasing their understanding of the team's major projects. The company is developing a conversational AI that gathers information from the business owner, such as the industry, business model canvas, preliminary research and notes, historical profit and loss records, business plans or strategy documents, sales figures, revenue targets, and various opportunities. This will be a part-time position requiring significant overlap with the EST time zone.
+
+Job Responsibilities:
+
+Learn about the roadmap and all of the exciting new projects that will be launched soon
+Identify and concisely explain to non-tech team members the operational viability of feature requests
+Join a fantastic engineering team to tackle challenging issues
+Balance the interests of long-term quality with short-term value
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 5+ years of relevant experience as a Machine Learning engineer
+Prolific experience working with the latest Machine Learning technologies
+Demonstrable knowledge of and experience with Python
+Excellent English communication skills, both spoken and written",Remote,209,"[' C/C++', 'H2O.ai', 'sciket-learn', 'Python', 'Excel', 'R', 'Scikit-Learn', ' Q-Learning']","['Unsupervised learning', 'Software engineering', 'communication', 'Reinforcement learning', 'database management', 'Deep learning', 'Project management', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'feature engineering', 'Computer vision', 'quality control', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+14,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+An NYSE-listed company that has been developing game-changing pharmaceutical solutions for over a century is looking for a Machine Learning Engineer. The engineer will be responsible for creating cutting-edge software applications and writing scalable code for the platform. The U.S.-based company is researching, manufacturing, and distributing a range of world-class products in the healthcare sector. This is a great opportunity for developers who are eager to work with a multinational company and build a lucrative career.
+
+Job Responsibilities:
+
+Evaluate the platform's functional and business requirements
+Guide different teams through various design specifications needed for a defined architecture
+Ensure architectural and thorough design while supervising the project's execution
+Actively take part in putting a software ecosystem into place
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Machine Learning Engineer
+Demonstrable experience working with Machine Learning technologies
+Exceptional leadership and time management skills
+Fluent in spoken and written English communication",Remote,163,"[' Q-Learning', 'R', ' C/C++']","['Deep learning', 'Project management', 'Time series analysis', 'Ensemble learning', 'Unsupervised learning', 'feature engineering', 'Computer vision', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'A/B testing', 'Business intelligence', 'communication', 'Transfer learning', 'database management', 'Supervised learning', 'Reinforcement learning', 'Data engineering', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+15,Data Analyst,  Shaldag Limited  ,  Lagos ,"About the job
+This job is sourced from a job board. Learn more
+Never Miss a Job Update Again.
+Company:
+Location: Nigeria
+State:
+Job type: Full-Time
+Job category:
+Job Description
+
+Shaldag Limited commenced as a greenfield aquaculture company in 2014 to produce high quality fish products for consumption in Nigeria. Shaldag produces African Catfish (Clarias gariepinus) from its 2,500MT per annum capacity farm in Epe, Lagos and recently forward integrated into the production of smoke-dried and packaged fish products. These products now retail in over 200 supermarkets and hyper-stores across the Country.
+
+We Are Recruiting To Fill The Position Below
+
+Job Title: Data Analyst
+
+Location: Epe, Lagos
+
+Employment Type: Full-time
+
+Job Summary
+Create and enforce policies for effective data management and collection.
+Formulate techniques for quality data collection to ensure adequacy, accuracy and legitimacy of data.
+Review data for inconsistencies or anomalies that could skew analytical results.
+Communicate with Team Leads and Managers on data requirements as applicable.
+Manage all aspects of the Aquanetix aquaculture management software. Supervising and editing information. Verifying it performs as a high-quality management tool.
+Maintain inventories of important materials. Produce, edit and hand over to G.M. stock lists (in stock, supplied, and used): Feeds (size, quantity, number, expiry dates), chemicals, diesel, test kits, medicines, hormones and others that might be added from time to time.
+Device and implement efficient and secure procedures for data management and analysis under the supervision of the General Manager.
+Maintain Shaldag’s databases. Conduct routine checks as needed to ensure data integrity.
+Requirements
+Candidates should possess a Bachelor’s Degree with at least 2 years relevant work experience.
+Salary
+
+N100,000 – N120,000 Monthly.
+
+Application Closing Date
+
+12th December, 2022.
+
+Don't Keep! Kindly Share:",On-site,281,"['Scikit-Learn', 'R', ' C/C++', 'sciket-learn']","['quality control', 'Project management', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Data engineering', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'analysis', 'Regression analysis', 'A/B testing', 'Data interpretation', 'database management']",2 years,2,1 to 3 years,bachelor
+16,Data Engineer,  Applaudo  ,  Abuja ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+19,Data Engineer,  Applaudo  ,  Abuja ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+20,Data Engineer,  Applaudo  ,  Niger State ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+21,Data Analyst,  Turing  ,  Lagos ,"About the job
+A multinational, U.S.-based big wig that has been operating in the pharmaceutical industry for over a century is looking to hire a Tableau Developer. The candidate is expected to improve business processes by creating cutting-edge computer systems and data visualization solutions. The NYSE-listed company has been spearheading medical innovation, manufacturing and distributing best- in- class pharma products, and helping people track their health via innovative digital tools. The ideal candidate should be exclusively based out of the Latin-American region.
+
+Job Responsibilities:
+
+Design, develop, and maintain complex Tableau reports to ensure scalability, manageability, and extensibility
+Conduct unit testing to improve performance and re-useability
+Lend your technical expertise in the field of design, architecture, and implementation
+Collaborate with software architects to determine the best implementation of their design 
+Develop useful reports and dashboards to extract insightful data
+Work with other stakeholders to improve/automate engineering processes
+Analyze user feedback and review to drive results that meet/exceed user expectations
+Adhere to software coding guidelines and styles to ensure consistency
+Resolve Tableau report support tickets
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Tableau Developer
+Demonstrable expertise in developing and handling Tableau-driven dashboards and analytics
+Ability to maximize workbook performance while querying and displaying large data sets 
+Experience with interpreting technical and dashboard structures to create technical specifications from complex business requirements 
+Familiarity with Tableau administrator/architecture
+Expert-level skill in Tableau development
+Highly competent in Excel (macros, pivot tables, etc.).
+Understanding of advanced calculations and statistical functions
+Thorough understanding of SQL and relational database management systems
+Strong knowledge of data modeling and normalization
+Prior experience working with QA, testing, and coding
+Excellent English communication skills
+Accuracy and attention to detail 
+Experience collaborating with cross-functional teams 
+Multitasking ability",Remote,296,"[' C/C++', ' PL/SQL', 'Excel', 'R', 'Tableau', 'SQL']","['Project management', 'Data visualization', 'Exploratory data analysis', 'Data engineering', 'feature engineering', 'Computer vision', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'modeling', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'visualization', 'Support vector machines', 'database management', 'Agile development', 'product development']",Not Specified,0,Not Specified,bachelor
+23,Data Analyst,  HRbreakoutroom  ,  Lagos ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+HRbreakoutRoom is aplatform for all HR conversations with Industry Leaders around the globe. Relevant impact on Career Mentoring, Resourcing, Learning and Advisory. We help our clients win in the marketplace by providing state-of-the-art HR services.
+
+Job Title: Data Analyst
+
+Location: Surulere, Lagos
+
+Job type: Full-time
+
+Reports to: Business Operations Manager
+
+Division / Department: Data Analytics and Insights DIRECT
+
+Job Purpose
+Gather, process, interpret and present data (received from the various data sources) into business insights for internal use and by key clients
+Collate data from the various data sources such as databases, surveys, and social media platforms.
+Organizing and storing data in a way that is easily accessible and usable.
+Cleaning and pre-processing data to ensure accuracy and completeness.
+Analysing data using statistical techniques and software tools, such as Microsoft Excel, SQL, and R.
+Visualizing data using charts, graphs, and other graphical representations.
+Communicating findings and recommendations to stakeholders through reports, presentations, actionable insights, and other appropriate means.
+Collaborating with other cross-functional teams, such as marketing and product development, to support data driven decision making.
+Act as a liaison between the company and the evaluator during the process of data collection / gathering.
+Assist with the coordination of audit activities (including surveys/opinion polls) and preparation of audit reports.
+Any other administrative duties and projects assigned by your line manager.
+Key Performance Indicators (KPIs)
+Provide all monthly reports at least three days before final submission to the client.
+Maximum of 2% error on all data reports, by ensuring that all data is properly validated at the collation stage.
+Participate in the training of evaluators to ensure that the right information is captured at the initial phase of every project.
+Maximum of one rework on any project due to gap in project requirements.
+At least 95% satisfaction feedback from team members (this includes project manager).
+Application Closing Date
+
+20th January, 2023.
+
+Don't Keep! Kindly Share:",On-site,333,"[' C/C++', ' PL/SQL', 'Excel', 'R', ' Q-Learning', 'SQL']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'Natural language processing', 'Reinforcement learning', 'Agile development', 'product development', 'Deep learning', 'Decision trees', 'Time series analysis', 'Project management', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'Support vector machines', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,Not Specified
+25,Data Engineer,  Applaudo  ,  Lagos ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+26,Data Engineer,  Turing  ,  Lagos ,"About the job
+A rapidly-growing company that is providing intelligence as a service by enabling users to unlock the potential in their data, is looking for a Data Engineer. The engineer will be expected to actively participate within the teams to design, develop, test, and deploy software. The company's mission is to democratize the data economy and return control to the people who generate the data. This will be a long-term, full-time position.
+
+Job Responsibilities:
+
+Develop, design, and maintain scalable data pipelines using GCP technologies to extract, convert, and load data into BigQuery from diverse sources
+Tune and optimize the pipelines for efficiency and dependability
+Assure data quality and put mechanisms in place for data validation and monitoring
+Create and maintain pipeline and process documentation
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a data engineer
+Demonstrable experience working with Python, SQL, BigQuery, and Cloud Storage
+Familiarity with Airflow, Dataproc, and Cloud Pub/Sub is desirable
+Nice to have some knowledge of Cloud Dataflow and Cloud Composer
+Exceptional leadership and collaboration skills
+Fluent in spoken and written English",Remote,188,"['Airflow', 'Dataproc', ' C/C++', 'BigQuery', 'Python', ' PL/SQL', 'R', 'Google Cloud', 'SQL']","['quality control', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'feature engineering', 'storage', 'Python programming', 'Computer vision', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'Collaboration', 'Cloud computing', 'A/B testing', 'Business intelligence', 'Data interpretation', 'Version control', 'Data engineering']",Not Specified,0,Not Specified,bachelor
+27,Data Analyst,  Flutterwave  ,  Lagos ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+Flutterwave was founded on the principle that every African must be able to participate and thrive in the global economy. To achieve this objective, we have built a trusted payment infrastructure that allows consumers and businesses (African and International) make and receive payments in a convenient border-less manner.
+
+Job Title: Data Analyst
+
+Location: Lekki, Lagos
+
+Employment type: Full-time
+
+Department: Data Team
+
+The Role
+We are seeking a highly skilled and motivated Data Analyst with a minimum of 3 years of experience to join our team.
+You are an individual who is passionate about data, driven to make a difference, and eager to solve complex problems?
+In this role, you will have the opportunity to analyze data, provide insights, and drive decision-making. You will be a key member of the team and will play a vital role in shaping the future of our company.
+Develop and deliver analytics reporting and Business Intelligence dashboards as required by business areas.
+Interpreting data and analysis into impactful, action-orientated reports for internal stakeholders.
+Promote a data-driven organization and empower teams with actionable data and automated and intuitive KPI dashboards.
+Develop strong cross-functional partnerships across the company (Engineering, Product, Finance, Marketing, Operations, etc.)
+Support the team and/or other analysts in the design, construction, and implementation of appropriate analytical processes which support business objectives.
+Interface with business teams to understand their data requirements and provide them with actionable insights and reports.
+Communicate key findings and insights to both technical and non-technical stakeholders using storytelling techniques
+Perform ETLs as may be required
+Bachelor’s Degree in Computer Science or other related fields of core Sciences or equivalent experience.
+Minimum of 3 years experience working as a data analyst.
+Experience with Power BI, Tableau, or similar tools for data visualization.
+Familiarity with SQL and working with relational databases. Python would be a plus.
+Exceptional communication/interpersonal skills to articulate ideas, frame problems, and offer solutions. Strong leadership track record with the ability to work effectively with leadership teams.
+Experience with A/B or multivariate testing.
+A balanced strategic and tactical thinker with strong presentation, problem-solving, and analytical skills.
+Able to manage multiple cross-functional projects across different departments.
+Strong attention to detail, results-driven with high accuracy of output
+Authorization to work in the country without sponsorship.
+Application Closing Date
+
+Not Specified.
+
+Don't Keep! Kindly Share:",On-site,402,"['Power Query', 'Power BI', ' C/C++', 'Python', ' PL/SQL', 'R', 'Tableau', 'SQL', 'KPI']","['Data visualization', 'Software engineering', 'Data interpretation', 'communication', 'product development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'visualization', 'Support vector machines', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'storytelling']",3 years,3,1 to 3 years,bachelor
+28,Data Scientist,  Reliance Health  ,  Lagos ,"About the job
+The Data Scientist is responsible for building AI/ML models for automating processes, reducing costs and increasing revenues of a modern health-tech organization
+
+Responsibilities:
+Builds AI/ML models to automate different enterprise processes such as claim and provider management, customer acquisition, engagement retention, customer support, and finance and human resource functions
+Build intelligent mobile app functions to improve members’ health
+Provide key actionable insights to management
+Use data to estimate provider quality of care
+
+Requirements
+Minimum 3 years experience as a data scientist, with a particular focus on machine learning and NLP.
+Tertiary education from a recognized institution, in a quantitative field
+Experience with Python and AI/ML libraries
+Experience in modeling consumer behavior is a plus
+Experience with medical data is a plus
+Ability to work independently in a fast-paced environment
+Excellent oral and written communication skills",Remote,138,"[' C/C++', 'H2O.ai', 'Python', 'Excel', 'R', 'NLP', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Data interpretation', 'communication', 'Reinforcement learning', 'database management', 'Deep learning', 'Project management', 'Python programming', 'A/B testing', 'NLP', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'Support vector machines', 'quality control', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'Transfer learning', 'Machine learning']",3 years,3,1 to 3 years,Not Specified
+29,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+En Turing, ayudamos a los programadores a construir la carrera de sus sueños poniéndolos en contacto con empleos de tecnología muy bien pagos en EE.UU., con un salario en dólares. Más de 400 empresas, incluídas Johnson & Johnson, Dell, Disney, Volvo, etc., han contratado a desarrolladores de Turing.
+
+An emerging edtech startup building an initial team of talented individuals is looking for a Machine Learning Engineer. The engineer will be actively contributing to developing a computer adaptive testing solution that also employs machine learning for the education space. The company has recently raised a pre-seed fund and aims to implement an Adaptive Learning System. This would be an exciting opportunity for those who want to work in a fast-paced and customer-first environment. It requires an overlap with PST.
+
+Job Responsibilities:
+
+Assist in building back-end infrastructure, data pipelines, and ML models for AI-backed products
+Experiment with ML techniques to create and test new program features
+Assist in extending and improving existing ML frameworks and libraries
+Work alongside data engineers to create data and model pipelines, and embed AI and analytics into the business decision processes
+Integrate ML models to end-users and run experiments
+Run tests, perform statistical analysis, interpret test results, and perform tuning and scaling
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Machine Learning Engineer
+Must have hands-on experience in Adaptive Learning Systems 
+Should be well versed in MEAN and/or MERN stacks
+Expertise in Machine Learning and Artificial Intelligence 
+Experience in data science projects and psychometrics is required
+Must have excellent communication skills with proficiency in English",Remote,273,"['H2O.ai', ' C/C++', 'Excel', 'R', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'communication', 'Reinforcement learning', 'Deep learning', 'Decision trees', 'Time series analysis', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'Hyperparameter tuning', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+30,Data Analyst,  Turing  ,  Lagos ,"About the job
+A Silicon Valley-based company that is developing software for social media networks to help screen for harmful content, hate speech, and disinformation, is looking for a Tableau Developer. The developer will be communicating with the clients’ technical leadership to understand project requirements and execute them. Using scalable ML-powered solutions, the company is committed to making the internet a safer place for everyone. This will be a full-time position requiring significant overlap with the PT time zone.
+
+Job Responsibilities:
+
+Collaborate closely with designer, product, and data science support teams
+Work with standard visualizations, frameworks, and customizations for specific clients
+Assist with the quick implementation of stunning and useful Tableau dashboards for high-profile business clients using vast volumes of high-dimensional data
+Drive projects from start to finish with a measurable impact on the business
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software developer
+Extensive experience working with Tableau
+Expert-level experience with database query
+Ability to support data ingestion into dashboards
+Familiarity with SQL, AWS S3, etc.
+Prior experience embedding Tableau visualizations into web portals is desirable
+Nice to have some experience managing tableau server instances or adding features to a self-managed instance
+Excellent English communication skills",Remote,210,"['Power Query', ' C/C++', ' PL/SQL', 'Excel', 'R', 'AWS', 'Tableau', 'AWS S3', 'SQL']","['Project management', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Data engineering', 'feature engineering', 'Computer vision', 'Neural networks', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'visualization', 'Support vector machines', 'database management', 'product development']",Not Specified,0,Not Specified,bachelor
+31,Data Engineer,  Applaudo  ,  Oyo State ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+32,Data Engineer,  Applaudo  ,  Edo State ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+34,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+An NYSE-listed company that has established itself as the market leader in the technology industry with its world-class solutions is looking for an ML Engineer. The engineer will be in charge of improving the scalability, service reliability, capacity, and performance. The company is helping individuals and businesses to reach new heights by providing them with next-gen tech hardware and software solutions. This is an exciting opportunity for developers who are eager to work with a multinational company and build a lucrative career.
+
+Job Responsibilities:
+
+Review functional and technical specifications and participate in brainstorming sessions
+Work actively in helping the broader development team establish best practices according to modern methodologies
+Collaborate with cross-functional teams to deliver high-quality products
+Identify gaps in test coverage and processes, and propose plans to close the gaps
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 5+ years of relevant experience as a Machine Learning Engineer
+Demonstrable experience working with Python, Docker, and Kubernetes
+Exceptional time management and troubleshooting skills
+Fluent in spoken and written English communication",Remote,178,"[' C/C++', 'Python', 'R', 'Kubernetes', ' Q-Learning', 'Docker']","['Unsupervised learning', 'Software engineering', 'communication', 'Reinforcement learning', 'database management', 'Agile development', 'product development', 'Deep learning', 'Project management', 'Time series analysis', 'Python programming', 'A/B testing', 'Supervised learning', 'Data engineering', 'troubleshooting', 'feature engineering', 'Computer vision', 'quality control', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+35,Data Engineer,  Applaudo  ,  Rivers State ,"About the job
+Job Description
+
+About You
+
+We are looking for a Big Data Engineer to work with large data volumes read from scattered information sources in an organization's technology infrastructure.
+
+You bring to Applaudo the following competencies:
+
+2+ years of experience with Scala Spark
+3+ years of data delivery, ETL (extract, transform and load) and data warehouse design, analysis, and programming experience.
+Experiencie with Google Cloud Plattform.
+Experience with an excellent grasp of relational and dimensional data modeling
+Strong mathematical, statistical, and analytics skills
+1+ year of Agile experience
+English is required, as you will work directly with US-based clients.
+
+You will be accountable for the following responsibilities:
+
+Extracting data from different data sources and transferring it into a data warehouse environment.
+Designing, maintaining, and implementing transactional and analytical data storage structures.
+Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants
+Experience in one or more of the following DBMS: PostgreSQL, MySQL, Google Cloud Datastore, Cosmos
+Experience in one or more of the following programming languages: Scala, PL/SQL, Java
+Experience in one or more of the following cloud environment tools: GCP
+Elaborate informative, expressive, and meaningful reports that support business decision-making processes through the information provided.
+Reporting and subsequently translating the emanating results into good technical and consistent data designs.
+
+Qualifications
+
+Technical Skills:
+
+2+ years of experience with Scala Spark
+
+Experience with cloud environment tools
+
+Additional Information
+
+Here at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.
+
+Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!
+
+We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.
+
+Some of our perks and benefits:
+
+Work from home
+Flexible schedule
+Celebrations
+Special discounts
+Entertainment area
+Flexible work spaces
+Great work environment
+Private medical insurance
+Benefits may vary according to your location and/or availability. Request further information when applying.",Remote,368,"['Scala Spark', ' C/C++', 'Scala', 'Apache Spark', 'Spark', 'PostgreSQL', ' PL/SQL', 'Excel', 'R', 'MySQL', 'Agile', 'Google Cloud', 'Java', 'SQL']","['Data visualization', 'Cloud computing', 'Data interpretation', 'communication', 'Agile development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'ETL', 'analysis', 'Regression analysis', 'Support vector machines', 'storage', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees']",Not Specified,0,Not Specified,Not Specified
+37,Machine learning engineer,  Conclase  ,  Lagos ,"About the job
+Job Purpose
+
+We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products.
+
+Machine Learning Engineer responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in statistics and programming. If you also have knowledge of data science and software engineering, we’d like to meet you.
+
+Your ultimate goal will be to shape and build efficient self-learning applications.
+
+Required Skills & Experience
+
+5 years of ML model development (Catboost, Light GBM, XG Boost)
+MUST have experience in Transaction Monitoring and Anti-Money Laundering experience
+Experience in Python development
+Understanding of data structures, data modeling and software architecture
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, Java and 
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Excellent communication skills
+Ability to work in a team
+Outstanding analytical and problem-solving skills
+Degree in Information Technology or related course
+
+Powered by JazzHR
+
+i3hb8iRhDk",Remote,167,"[' C/C++', 'sciket-learn', 'Auto-Keras', 'Python', 'Excel', 'R', 'Scikit-Learn', 'Keras', 'Keras-Tuner', 'Java', ' Q-Learning', 'PyTorch']","['Data visualization', 'Unsupervised learning', 'Statistics', 'Software engineering', 'Data interpretation', 'communication', 'Reinforcement learning', 'Agile development', 'product development', 'Deep learning', 'Python programming', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'Probability', 'feature engineering', 'Classification algorithms', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",5 years,5,4 to 6 years,master
+38,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A well-established company that uses science and ML technologies to help build resilience against disasters is looking for an AI/ML Engineer. The developer will be tasked with developing innovative machine learning models for various applications in flood and resilience modeling. The company utilizes cutting-edge science to curb disasters and enhance planetary-scale resilience. They have raised more than $110 mn in funding so far. This is an excellent opportunity for developers who enjoy working in a highly collaborative, challenging, and exciting environment.
+
+Job Responsibilities:
+
+Stay informed on new technologies and implement cautiously
+Maintain necessary documentation for the project
+Fix the issues reported by application users
+Plan, build, and design solutions with a mental note of future requirements 
+Coordinate with the development team to manage fixes, code changes, and merging
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Staff Data Scientist or AI/ML engineer
+Demonstrable expertise in Artificial Intelligence and Machine Learning technologies
+Sound knowledge of Python and related frameworks is nice to have
+Proven track record of collecting and cleaning data, feature engineering, building scalable machine learning algorithms, and constantly improving on them 
+Familiarity with uncharted territories and excited to create systems that can scale to multiple areas",Remote,212,"[' C/C++', 'H2O.ai', 'Python', 'Excel', 'R', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'Reinforcement learning', 'Agile development', 'product development', 'Deep learning', 'Project management', 'Python programming', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'Classification algorithms', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+39,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+En Turing, ayudamos a los programadores a construir la carrera de sus sueños poniéndolos en contacto con empleos de tecnología muy bien pagos en EE.UU., con un salario en dólares. Más de 400 empresas, incluídas Johnson & Johnson, Dell, Disney, Volvo, etc., han contratado a desarrolladores de Turing.
+
+A fast-paced company that creates software that enables the most effective AI to be operationalized at institutions is looking for an Applied Machine Learning Engineer. The selected candidate will be responsible for putting forward-thinking ideas into practice, including but not limited to foundation models. The company develops and deploys effective AI solutions with maximum impact across sectors using cutting-edge AI.
+
+Job Responsibilities:
+
+Encourage the creation of the pilot models, production deployment, and model vetting for solutions
+Engage with data who possess strong statistical knowledge and analytical skills
+Analyze vast amounts of data and derive insightful conclusions
+Provide clients with data-driven solutions, employ statistics, data mining, machine learning, deep learning, and foundation models
+Investigate issues thoroughly to produce creative but workable answers
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software engineer
+3+ years of cumulative ML professional experience
+1+ year of experience with Tensorflow/Keras/Pytorch/fast.ai
+Experience developing AI applications that have been successfully running in production 
+Knowledge of defining, architecting, and building the ML solution for a business problem
+Expertise in modern machine learning frameworks and technologies (e.g., PyTorch, Transformers, Scikit-learn, NumPy, Pandas)
+Knowledge of Python, Git versioning, and libraries 
+Expertise in data visualization Libraries - Matplotlib, Plotly 
+Knowledge of MySQL/Postgres/MongoDB 
+Familiarity with Cloud provider stacks, including AWS or Azure, or GCP
+Proficiency in English",Remote,277,"['Pandas', 'Git', 'MySQL', 'Keras', 'Keras-Tuner', 'AWS S3', 'PyTorch', 'Azure', ' C/C++', 'sciket-learn', 'AWS', 'Google Cloud', 'H2O.ai', 'MongoDB', 'Transformers', 'Auto-Keras', 'Python', 'Scikit-Learn', ' Q-Learning', 'Plotly', 'TensorFlow', 'R', 'NumPy']","['Data visualization', 'Unsupervised learning', 'Statistics', 'Software engineering', 'Cloud computing', 'Data interpretation', 'Reinforcement learning', 'Deep learning', 'Python programming', 'deployment', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'visualization', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+41,Business Analyst,  AfyA Care  ,  Lagos ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+AfyA Care is set up to actively invest in and operate healthcare assets with a vision to make healthcare accessible and affordable.
+
+Job Title: Business Intelligence & Automation Analyst
+
+Location: Lagos, Nigeria
+
+Employment Type: Full-time
+
+Job Purpose
+The business intelligence and automation analyst is responsible for driving business performance and seeking insights from the business by creating dashboards, both lagged and instant.
+Also improving the process in the business by identifying manual processes that can be automated to achieve quicker business delivery. The analyst is expected to identify his customers, and their needs and deliver the dashboards and the insights required.
+To have success in this role, you need to be a self-starter who is constantly thinking of business improvement.
+Core Functions / Responsibilities
+Identifying and defining the business requirements across the group
+Identifying and understanding the different data tables across the business.
+Building a minimum of 2 dashboards monthly across the group
+Drilling into data to generate insights and create multiple reports explaining the data in the system.
+Develop and manage BI solutions
+Automate a minimum of 2 processes monthly across the group
+Be a business automation champion in the group
+Identity Data inconsistencies in the business
+Escalating data inconsistencies and errors and follow through to ensure correction
+Participate in the formation of the Group’s strategy
+Profile
+2 years of Finance experience
+Understanding SQL, Power BI, and other languages will be added advantage
+Strong numerical and relationship management skills
+Remuneration
+Remuneration will be competitive and at the higher end of industry standards depending on qualification and relevant experience.
+There are additional benefits such as:
+Health Insurance for self and nuclear family
+Life Insurance for self
+Application Closing Date
+
+Not Specified.
+
+Don't Keep! Kindly Share:",On-site,305,"['Power Query', 'Power BI', ' C/C++', ' PL/SQL', 'R', 'SQL']","['Project management', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Data engineering', 'Computer vision', 'Continuous integration and deployment (CI/CD)', 'A/B testing', 'Business intelligence', 'Data interpretation', 'database management']",2 years,2,1 to 3 years,Not Specified
+43,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+En Turing, ayudamos a los programadores a construir la carrera de sus sueños poniéndolos en contacto con empleos de tecnología muy bien pagos en EE.UU., con un salario en dólares. Más de 400 empresas, incluídas Johnson & Johnson, Dell, Disney, Volvo, etc., han contratado a desarrolladores de Turing.
+
+A fast-growing company that is currently operating in stealth mode while trying to revolutionize the tech industry is looking for an ML Engineer. The engineer will be in charge of designing and implementing information retrieval systems across diverse datasets. The company is building new products that would have seemed like science fiction just a few years ago. This is a great opportunity for developers who are eager to use new cutting-edge large language models to build new products.
+
+Job Responsibilities:
+
+Writing robust, clean, and manageable product code
+Take charge of training and tuning large language models
+Participate in design reviews and architecture discussions
+Fine-tune language models and use reinforcement learning to guide their output
+Utilize advanced technology to build data ingestion, machine learning pipeline, and MLOPS
+Triage production issues and optimize the inference in production
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Machine Learning Engineer
+Prolific experience working with Machine learning algorithms and tools like Pytorch
+Demonstrable experience with Natural Language Processing (NLP) and Transformers architecture
+Strong knowledge of data science and related technologies like Pandas, SQL, dataset processing, etc
+Prior experience working with information retrieval, distributed computing, and AI inference in production
+Excellent English communication skills",Remote,261,"[' C/C++', 'H2O.ai', 'Pandas', 'Transformers', ' PL/SQL', 'Excel', 'R', 'NLP', ' Q-Learning', 'SQL', 'PyTorch']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Cloud computing', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'product development', 'Deep learning', 'A/B testing', 'NLP', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'Classification algorithms', 'Hyperparameter tuning', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+44,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A US-based DSOS company revolutionizing the data and cloud services industry, is looking for a Machine Learning Engineer. The engineer will be responsible for designing new machine learning features and capabilities, and optimizing the existing models. The company’s technology helps incident response teams to precisely detect, respond and protect against data breaches as well as helps cloud-security teams tighten IAM policies around data, and governance teams to audit every individual access across every data store. The company has secured $18mn in funding so far. This is a nice opportunity for those who would like to collaborate with industry professionals and rise quickly through the ranks.
+
+Job Responsibilities:
+
+Write modern, clean, scalable, and easy-to-maintain ML models and algorithms 
+Work alongside product designers and leadership teams to build ML features and capabilities to add value to the company’s prospects and customers
+Resolve complicated issues using comprehensive data sets utilizing new and existing machine learning libraries/frameworks
+Closely work on optimizing ML models and contribute to code reviews and pull requests.
+Be ready to provide on-call support to field engineering teams, prospects, and also customers whenever required
+Provide guidance and mentor other ML engineers
+
+Job Requirements:
+
+M.S./PhD in Computer Science, Electrical Engineering, Mathematics, Statistics, or Statistical Physics specializing in ML and/or NLP
+Should possess a PhD + 1 year or M.S. + 3 years of hands-on experience building efficient ML systems using large datasets
+In-depth research background/ML Papers in graph and or NLP domains is a plus
+Must be good with skills related to computer science and machine learning fundamentals
+Must have knowledge of software engineering
+Should possess a theoretical background in ML
+Highly efficient at Python with a basic understanding of Java/C++ or related languages
+Should possess professional working experience of Tensorflow, scikit-learn, and pandas
+Experience in processing large datasets (e.g. Map/Reduce, Apache Spark, and/or Apache Beam)",Remote,307,"['Scala Spark', ' C/C++', 'Pandas', 'sciket-learn', 'Apache', 'Python', 'Spark', 'Scikit-Learn', 'R', 'Google Cloud', 'NLP', 'Java', ' Q-Learning', 'Apache Spark', 'TensorFlow']","['Data visualization', 'Unsupervised learning', 'Statistics', 'Software engineering', 'Cloud computing', 'Data interpretation', 'Natural language processing', 'Reinforcement learning', 'product development', 'Deep learning', 'Python programming', 'governance', 'A/B testing', 'NLP', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'security', 'Classification algorithms', 'Support vector machines', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",1 year,1,1 to 3 years,phd
+46,Data Engineer,  Turing  ,  Lagos ,"About the job
+A U.S.-based company that is on a mission to help digital consumer brands reach their full global potential is looking for a Data Engineer. The engineer will be in charge of performing troubleshooting and debugging tasks for software upgrades using a test-oriented approach. With its brand building, performance marketing, product development, and international growth solutions, the company is creating Product-Market Fit for those who live on the cusp of upcoming cultural transformations. The company has managed to secure close to $80mn+ successfully during their Series B round of funding.
+
+Job Responsibilities:
+
+As part of the development process, maintain and arrange the code documentation
+Create top-notch software and own solutions from end-to-end
+Deliver new features quickly and raise the level of software quality
+Encourage those around you to improve as developers and to succeed
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a data engineer
+Prolific experience working with JavaScript and Vue.js
+Some familiarity with Python and Node.js is nice to have
+Fluency in spoken and written English communication",Remote,182,"[' C/C++', 'Java', 'Python', 'R', 'Javascript']","['quality control', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'troubleshooting', 'feature engineering', 'Computer vision', 'Python programming', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'A/B testing', 'Data interpretation', 'Debugging', 'communication', 'Data engineering', 'Agile development', 'product development']",Not Specified,0,Not Specified,bachelor
+47,Data Engineer,  Turing  ,  Lagos ,"About the job
+A U.S.-based company that has managed to establish a beloved online platform that promotes community-building activities by enabling users to share their interests, is looking for a Data Engineer. The engineer will be taking ownership of a variety of product surfaces and making a significant difference to support the company. The platform is enabling users across the globe to connect with each other through shared interests and experiences. The company has managed to secure $1.1bn+ during their Series F round of funding.
+
+Job Responsibilities:
+
+Develop, maintain, and enhance scalable data pipelines and data analytics services for a range of customer-facing targeting solutions
+Create low-latency targeting systems that could retrieve user and post profiles and evaluate them to decide who to target with ads
+Provide insight-based tools to analyze the targeted performance
+Collaborate with data scientists to analyze and utilize the power of big data from the platform
+Develop effective data storage for machine learning and ad serving
+Take ownership of and influence the advertising business to support the organization as a member of this mission-driven team
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a data engineer
+3+ years of software development experience with general-purpose programming languages like Java, Scala, Python, C++, and Go
+Prolific experience with data processing or data engineering
+Solid understanding of large-scale back-end service design
+Demonstrable experience with Frameworks: like Spark and Flink
+Extensive experience working with Datastores like DynamoDB, Redis, Druid, Kafka, and BigQuery
+Familiarity with tools like Kubernetes and Airflow
+Nice to have some Ads or ML experience
+Prior experience in building business intelligence and tools is desirable
+Demonstrable data analysis background or skills as well as knowledge of interview timelines and format is preferred
+Fluent in spoken and written English communication",Remote,302,"['Power Query', 'Power BI', 'Airflow', 'Scala Spark', ' C/C++', 'Scala', 'Kafka', 'Apache Spark', 'DynamoDB', 'Python', 'Spark', 'Druid', 'R', 'Java', 'Kubernetes', ' Q-Learning', 'Redis', 'BigQuery']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'Agile development', 'product development', 'Deep learning', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'Support vector machines', 'Ensemble learning', 'storage', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+52,Data Analyst,  eHealth4everyone  ,  Abuja ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+eHealth4everyone is a digital health enterprise based in Nigeria (Africa) contributing to health service delivery using data science and information technology. At ehealth4everyone, our goal is saving lives and our approach is information and technology. We believe that if health is a right, proven digital health solutions and expertise such as ours should not be a privilege.
+
+Job Title: Data Analyst – Dashboard Developer
+
+Location: Abuja
+
+The Dashboard Developer will perform all routine tasks of BI assignments including translating business requirements into technical requirements, connecting to data sources, PowerShell, REST APIs, and Identifying and developing dashboards/reports which solve clients’ unique problems and provide actionable decision support.
+He/she will ensure data is presented in a way that’s easy to understand and should be able to work independently and with little or no supervision remotely.
+Extracts, aggregates, analyzes and develops reports and dashboards using data sources including customer satisfaction data, operational data, employee performance data etc.
+Reviews and cleans datasets used in dashboards and reports.
+Creates and maintains organizational dashboards.
+Participates in the development of reports for external reporting.
+Serves as an organizational resource and expert related to data analysis tools and presentation of data via the development of dashboards.
+Reviews and recommends new metrics for analysis and presentation.
+Training end-users on new reports and dashboards.
+Develops visual reports, dashboards and KPI scorecards using business intelligence tools (such as Power BI and Tableau)
+Connects to data sources, imports data and transforms data for Business Intelligence.
+ Qualification and Skills
+A Degree in Information Technology, Computer Science, Economics, Statistics or other relevant fields is required.
+At least one year of Data Analysis experience using Power BI, SQL, Tableau etc.
+Knowledge of statistical methodologies is an added advantage.
+Advanced Excel and data cleaning skills are required.
+High attention to detail, quick learner, storyteller.
+Resourceful, curious, and motivated individual.
+An ability to work independently as well as in a team setting.
+Proven experience in building advanced data dashboards and reports.
+Excellent presentation skills are a must.
+Excellent written, oral, data and graphical communication skills.
+Application Closing Date
+
+31st December, 2022.
+
+Don't Keep! Kindly Share:",Hybrid,368,"['Power Query', 'Power BI', ' C/C++', ' PL/SQL', 'Excel', 'R', 'Tableau', 'SQL', 'KPI']","['Decision trees', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Statistics', 'Computer vision', 'Continuous integration and deployment (CI/CD)', 'analysis', 'decision trees', 'Regression analysis', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'Support vector machines', 'Data engineering', 'Agile development', 'product development']",Not Specified,0,Not Specified,Not Specified
+57,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+En Turing, ayudamos a los programadores a construir la carrera de sus sueños poniéndolos en contacto con empleos de tecnología muy bien pagos en EE.UU., con un salario en dólares. Más de 400 empresas, incluídas Johnson & Johnson, Dell, Disney, Volvo, etc., han contratado a desarrolladores de Turing.
+
+A fast-emerging company that makes the best use of technology to enhance the way people live and feel is looking for a Senior AI Engineer. The selected candidate will be responsible for modifying data science prototypes and using relevant ML tools and algorithms. The company's ground-breaking platform provides tailored tools and assistance to empower individuals on the path to well-being. This position requires an overlap with the PST time zone.
+
+Job Responsibilities:
+
+Automate prediction models by setting up and running machine learning systems and AI infrastructure
+Modify data science prototypes and use pertinent ML tools and algorithms
+Use text-to-speech and auto-tagging to turn unstructured input into useful information
+To assist product managers and stakeholders, conduct tests, carry out statistical analysis, and interpret the test findings
+Keep up with the latest ML and AI advances that are pertinent to the corporate world
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant Artificial Intelligence experience
+Healthcare experience is a plus
+Good English communication skills",Remote,221,"[' C/C++', 'H2O.ai', 'Auto-Keras', 'Auto-Sklearn', 'R', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'communication', 'Reinforcement learning', 'product development', 'Deep learning', 'Time series analysis', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'Classification algorithms', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+58,Machine learning engineer,  Choice Talents NG  ,  Lagos ,"About the job
+Never Miss a Job Update Again. 
+Company: 
+Location: Nigeria
+State: 
+Job type: Full-Time 
+Job category: 
+ Job Description
+
+Choice Talents NG is Nigeria’s preferred recruiter, trainer, business consultant, business and employee performance manager, for all categories of businesses (small, medium, large, multi-nationals and corporations). Our goal is to help build successful businesses through effective talent, resource and process management.
+
+Job Title: Artificial Intelligence Engineer
+
+Locations: Abuja (FCT) & Lagos
+
+Employment Type: Full-time
+
+Develop AI for Video Analysis and Computer Vision tasks.
+Write and maintain high-performance Python/C++ software code.
+Write technical documents describing core systems.
+Work closely with Design, Production, and QA.
+Gather Dataset, create Machine Learning Models for Object Detection, Image Classification, and Image Segmentation
+Performs research and testing to develop machine learning algorithms and predictive models.
+Utilization of big data computation and storage tools to create prototypes and datasets.
+Conducts model training and evaluation, integrates, tests, tunes, and monitors solutions.
+Candidates should possess a B.Sc / HND qualification
+3+ years experience in Artificial Intelligence/Computer Vision and/or software development.
+Experience with AI Algorithms such as YOLO, UNET, Deepsort, etc.
+Proficiency in one or more of the following programming languages: Python, C/C++.
+Proficient in mathematics including linear algebra, trigonometry, and algorithm design.
+Passionate, Self-motivated and loves solving problems.
+Familiarity with microservices architecture.
+Familiarity with multi-threaded/processing programming.
+Proficient with multiple AI tools and machine learning frameworks like Spark, TensorFlow, PyTorch, sciket-learn, and Keras.
+Requires a degree/master’s degree in computer science, mathematics, engineering, or equivalent.
+Works on advanced, complex technical projects or business issues requiring state-of-the-art technical or industry knowledge.
+Application Closing Date
+
+31st December, 2022.
+
+Don't Keep! Kindly Share:",On-site,269,"['Scala Spark', ' C/C++', 'H2O.ai', 'sciket-learn', 'Auto-Keras', 'Python', 'Spark', 'Scikit-Learn', 'R', 'PyTorch', 'Keras', 'Keras-Tuner', ' Q-Learning', 'Apache Spark', 'TensorFlow']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'Natural language processing', 'Reinforcement learning', 'database management', 'Agile development', 'product development', 'Deep learning', 'Project management', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'Classification algorithms', 'Ensemble learning', 'storage', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,master
+59,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A US-based startup committed to designing, building, and managing high-performing revenue operations for businesses is looking to hire a Machine Learning Engineer. The engineer will develop machine learning models to classify news/PR/industry articles based on category tags derived from a learning data of 5000+ data points. The company has assembled a dynamic group of sales, marketing, and technology experts with a track record of leading growth for some of the world’s largest and most successful companies. The selected candidate will create and leverage existing ML models for text summarization to enable rapid analyst understanding and context. This is an excellent opportunity for those who would like to join the team in pioneering the future of B2B growth.
+
+Job Responsibilities:
+
+Understand the business objectives and develop models to achieve them, along with metrics for progress tracking
+Design and develop scalable machine learning systems
+Research and integrate appropriate ML algorithms and tools
+Manage and lead the team executing the bottoms up build of a sales insight engine
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3-5+ years of relevant Software, ML, or Data engineering experience
+Baseline knowledge of full-stack development is desired
+Nice to have some proficiency in Scala, Play-framework, HTML, Bootstrap, jQuery, JavaScript, and Python scripting
+Have a keen interest in building from scratch rather than with frameworks
+Competence in data science and algorithms to develop rules and scoring of quantitative information
+Sound problem-solving aptitude 
+Familiarity with various machine learning frameworks and libraries 
+Ability to thrive in a fast-paced, collaborative environment",Remote,258,"['HTML', 'Scala Spark', ' C/C++', 'Scala', 'Javascript', 'Python', ' Bootstrap', 'R', 'jQuery', 'Java', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'Reinforcement learning', 'Agile development', 'product development', 'Deep learning', 'Python programming', 'A/B testing', 'Business intelligence', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'Classification algorithms', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+66,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A US-based banking platform that enables businesses to provide financial services and solutions to customers, is looking for a Machine Learning Engineer. The engineer will be required to don multiple hats and contribute to cross-functional tasks like reviewing the existing architecture and proposing changes as necessary. The company's cutting-edge technology enables developers to build and launch market-ready credit, deposit, and crypto products in a matter of weeks. During their Series B round of funding, the company raised over $50 mn. This will be a long-term, full-time role requiring some overlap with the PST time zone.
+
+Job Responsibilities:
+
+Build effective and scalable data pipeline
+Help build and maintain ML models
+Perform code reviews and architect new systems
+Mentor other team members and guide them on implementing industry best practices
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a machine learning engineer
+Prolific skills with Python, Pytorch, and Tensorflow
+Extensive experience working with MongoDB, Redis, ElasticCache, and AWS
+Nice to have some experience with fintech, risk, credit, and crypto products
+Fluent in written and spoken English",Remote,188,"[' C/C++', 'MongoDB', 'Python', 'AWS', 'PyTorch', 'R', 'AWS S3', ' Q-Learning', 'Redis', 'TensorFlow']","['Deep learning', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Ensemble learning', 'Unsupervised learning', 'feature engineering', 'Computer vision', 'Python programming', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'A/B testing', 'Data interpretation', 'Transfer learning', 'Supervised learning', 'Reinforcement learning', 'Data engineering', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+70,Data Scientist,  Vendease  YC W21   ,  Ibeju Lagos ,"About the job
+Overview: We are seeking the services of a qualified Data Scientist to utilize their analytical, statistical, and programming skills to collect, analyze, and interpret large data sets and deliver analytics and insights (predictive, prescriptive, diagnostic, deep learning). The ideal candidate will use these insights to develop data-driven solutions to difficult business challenges to the management team.
+
+Responsibilities Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies. Assess the effectiveness and accuracy of new data sources and data gathering techniques. Develop custom data models and algorithms to apply to data sets. Use predictive modelling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes. Develop company A/B testing framework and test model quality. Coordinate with different functional teams to implement models and monitor outcomes. Develop processes and tools to monitor and analyze model performance and data accuracy. Leverage visualisation tools to deliver graphs, tables and charts for management decision Deliver API services for data consumption by 3rd parties and partners.
+
+Qualification: Bsc. in Statistics, Mathematics, Computer Science or other quantitative field 6+ years of experience manipulating data sets and building statistical models Strong problem-solving skills with an emphasis on product development Excellent written and verbal communication skills for coordinating across teams A drive to learn and master new technologies and techniques
+
+EXPERIENCE Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets. Experience working with and creating data architectures using AWS, Heroku and MongoDB. Experienced using MongoDB Graph, Tableau etc Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks. Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc. Experience querying databases and using statistical computer languages: R, Python, SLQ, etc. Experience using web services: Redshift, S3, Spark, DigitalOcean, MongoDB, Heroku etc. Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc. Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc. Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc. Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.",On-site,430,"['Excel', 'MySQL', 'AWS S3', 'Scala Spark', ' C/C++', 'sciket-learn', 'Gurobi', 'Spark', 'AWS', 'Google Cloud', 'SQL', 'ggplot', 'MongoDB', 'Python', ' PL/SQL', 'Scikit-Learn', 'Hadoop', ' Q-Learning', 'Heroku ', 'R', 'Tableau', 'Apache Spark', 'Hive']","['random forests', 'Data visualization', 'Unsupervised learning', 'Statistics', 'Neural networks', 'Cloud computing', 'Data interpretation', 'communication', 'Reinforcement learning', 'regression', 'database management', 'Agile development', 'product development', 'Deep learning', 'Decision trees', 'Time series analysis', 'Project management', 'optimization', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'Computer vision', 'analysis', 'Regression analysis', 'Classification algorithms', 'clustering', 'quality control', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'decision trees', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,master
+85,Data Analyst,  TradeDepot  ,  Lagos ,"About the job
+This job is sourced from a job board. Learn more
+Never Miss a Job Update Again.
+Company:
+Location: Nigeria
+State:
+Job type: Full-Time
+Job category:
+Job Description
+
+TradeDepot enables manufacturers and key distributors keep their brands in stock on the shelves of millions of retail stores across Africa and other emerging markets.
+
+We Are Recruiting To Fill The Position Below
+
+Job Title: Data Analyst
+
+Location: Lagos
+
+Job Description
+
+What we’re looking for
+The Data Analyst role is one which is solely dependent on strategic execution of business objectives leveraging business intelligence. The successful candidate will possess a passion for innovative analysis, processes that scale, and the wherewithal to develop findings and recommendations that transcend the numbers.
+If you are an enthusiastic young leader with the ability to balance big-picture thinking with deep-dive research and attention to detail, we have the perfect job for you!
+Responsibilities
+Build, monitor and evaluate web and mobile analytics dashboards and reports, also recommend improvements in execution for driving growth and better engagement.
+Analyse all relevant internal & external data in a bid to drive growth in terms of user acquisition and retention; flagging issues and suggesting opportunities for operational improvement.
+Perform robust cohort analysis using varying layers of segmentation.
+Create regular reports to keep track of growth experiments and channel performance.
+Try various channels for organic growth, bringing in innovative ideas and discovering new opportunities for increasing acquisition as well as retention.
+Support the ongoing analysis of business performance required to inform marketing and product development decisions on a day-to-day basis.
+Design and launch experiments, determine targeting strategies, and develop category specific KPIs, forecasts, and goals.
+Qualifications
+Have a Bachelor’s Degree in Computer Science, Mathematics, Engineering, Economics or a related field with significant quantitative content.
+Have a business/data analysis professional certification.
+1-2 years of proven work experience in a growth, research or operations focused data analyst role.
+Excellent analytical skills and problem-solving ability; the ability to answer unstructured business questions and work independently to drive projects to conclusion.
+Strong knowledge of statistics, this includes experimental design for optimization, statistical significance, confidence intervals and predictive analytics techniques.
+Data Fluency: Expert quantitative analysis and logical reasoning; experience using databases languages (e.g. SQL or BigQuery), tracking/analytics tools (e.g. MixPanel, Google Analytics etc) and business intelligence/visualisation tools (e.g. Domo, Power BI, Looker etc) on large data sets to extract trends and insights. Hands-on experience conducting customer segmentation, cohort performance, and product funnel analyses preferred.
+Benefits
+Ground floor opportunity with the team; shape the strategic direction of the company.
+The rare opportunity to change the world such that everyone around you is using the product you built. We’re not just another social web app, we’re moving products and assets for real people and reinventing B2B distribution and logistics globally.
+Sharp, motivated co-workers in a fun office environment.
+Application Closing Date
+
+13th February, 2023.
+
+Don't Keep! Kindly Share:",On-site,480,"['Power Query', 'Power BI', ' C/C++', 'BigQuery', 'sciket-learn', ' PL/SQL', 'Excel', 'R', 'Scikit-Learn', 'Google Cloud', 'SQL']","['Data visualization', 'Statistics', 'Software engineering', 'Data interpretation', 'Agile development', 'product development', 'Deep learning', 'Time series analysis', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'Support vector machines', 'Continuous integration and deployment (CI/CD)', 'optimization']",2 years,2,1 to 3 years,bachelor
+91,Machine learning engineer,  Turing  ,  Lagos ,"About the job
+A multi-billion pharmaceutical giant is looking for a Junior ML Engineer. As a core member of a well-established team, the engineer will work on building models using machine learning techniques to power AI-based applications. Strong Python skills and a passion for data is important in this role. The company is listed in Fortune 500 in terms of revenue and is one of the only two US-based companies that have a prime credit rating of AAA. The company is worth over $435 bn. This is a once-in-a-lifetime opportunity for those who want to work with a multi-billion dollar MNC.
+
+Job Responsibilities:
+
+Apply your knowledge in the domain of AI/ML to create products with a great user experience
+Understand project requirements to design an effective roadmap and manage the overall project lifecycle
+Design and develop highly scalable models/tools/classifiers/algorithms with the help of AI and Machine Learning principles and techniques
+Influence the technical direction of the projects and collaborate with cross-functional teams to communicate technical details effectively
+Continuously integrate and ship code into the cloud environment
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Computer Science (or equivalent experience)
+2+ years of hands-on real-world experience
+Strong Python skills and love for data
+Understanding of machine learning libraries, predictive modeling, pattern recognition, data mining, and recommendation systems
+Knowledge of Artificial Neural Networks and Deep Learning Frameworks
+Deep understanding of large systems, complex code bases, and version control systems such as Git",Remote,237,"['Power Query', 'Power BI', ' C/C++', 'H2O.ai', 'Python', 'Git', 'R', 'Google Cloud', ' Q-Learning']","['Data visualization', 'Unsupervised learning', 'Neural networks', 'Cloud computing', 'Data interpretation', 'Reinforcement learning', 'Deep learning', 'Project management', 'Python programming', 'A/B testing', 'Version control', 'Supervised learning', 'Data engineering', 'Exploratory data analysis', 'Computer vision', 'Classification algorithms', 'quality control', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'modeling', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",Not Specified,0,Not Specified,bachelor
+95,Business Analyst,  Assets Microfinance Bank  ,  Lagos ,"About the job
+Assets Microfinance bank is a tier-1 Microfinance bank providing accessible, reliable, and convenient financial services to individuals and businesses across Nigeria. At Assets MFB, we offer value-based banking to Nigerians by creating superior value for all our stakeholders with the most effective and sustainable technologies, holding ourselves to the highest professional and ethical standards, and building an enduring transparent institution.
+
+Job Summary
+We are looking to hire a Business Analyst who can effectively use data to suggest ways that the business can operate more efficiently. He/she will gather and analyze data to develop and investigate potential solutions – including improvements to systems and processes through efficient business process analysis and modelling.
+
+Responsibilities
+Responsible for researching, reporting, formulating and implementing innovative analytic solutions and accelerators.
+Decompose, refine, and document requirements using appropriate graphical and textual techniques.
+Business process analysis and modelling, research, review, and analyze existing processes and develop strategies for enhancements.
+Evaluating business processes, anticipating requirements, uncovering areas for improvement, developing and implementing solutions.
+Leading ongoing reviews of business processes and developing optimization strategies.
+Staying up to date on the on the latest process and IT advancements to automate and modernize systems.
+Effectively communicating your insights and plans to cross-functional team members and management.
+Gathering critical information from meetings with various stakeholders and producing useful reports.
+Ensuring solutions meet business needs and requirements.
+Prioritizing initiatives based on business needs and requirements.
+Managing competing resources and priorities.
+Monitoring deliverables and ensuring timely completion of projects
+
+Qualifications
+2+ years’ experience as a business or data analyst or in a related field.
+Strong knowledge of and experience with reporting packages, databases.
+Knowledge of statistics and experience using statistical packages for analyzing datasets (e.g., Excel, SPSS, SAS)
+Strong analytical skills with the ability to collect, organize, analyze significant amounts of raw data and draw valid inferences and present them successfully to management using a reporting tool
+Technical writing skills
+Ability to troubleshoot data and high attention to details.
+Excellent command of English and communication skills.",On-site,334,"['SPSS', ' C/C++', 'SAS', 'Excel', 'R']","['Project management', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Data engineering', 'Statistics', 'Continuous integration and deployment (CI/CD)', 'analysis', 'Regression analysis', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'optimization', 'database management']",Not Specified,0,Not Specified,Not Specified
+96,Data Scientist,  DAI  ,  Nigeria  ,"About the job
+Vacancy for the position of Data Science Specialist- BMGF ( HCD+ )
+
+Background of the project
+
+Africa (HCD+) is a platform funded by Bill and Melinda Gates Foundation (BMGF) and will have the capability to serve as an African voice for advocacy, accountability and transparency on HCD. It will seek to accelerate political commitments, decision-making and funding for key priorities towards realising SDGs #1-6 in Sub-Saharan Africa. It aims to incubate regional advocacy and technical assistance hub on Human Capital Development towards increasing African Government's commitment, funding, and accountability to HCD. The platform, through increased HCD advocacy, focuses on three pillars: (i) Health and Nutrition; (ii) Education, skills and labour participation; (iii) Entrepreneurship, financial inclusion, and digital economy.
+
+Also, HCD sits across multiple Ministries, Departments and Agencies (MDAs) in many African governments. Hence, no organisation holds an integrated vision for HCD. An HCD-focused institution can further help the HCD agenda on the continent. It will focus on four missions: (i) Create transparency on the HCD performance across the continent; (ii) Advocate with heads of state and decision-makers to make HCD a priority; (iii) Ensure effective coordination and collaboration with stakeholders and decision-makers; (iv) Selectively drive the implementation of flagship programs in education, health and economic inclusion. The programme has since commenced its activities in Abuja.
+
+Location: Abuja
+
+Summary of the role:
+
+The primary objective of the Data Science Specialist is to extract data from multiple sources, using machine learning tools to organize, process, clean, validate and analyze the data for information purposes. In addition; The position will report to the Program Manager.
+
+Responsibilities & Duties:
+Provide balanced analytical research by turning raw data into valuable insights that help to drive actions and strategies.
+Interprets and analyses data from multiple sources to develop imaginative solutions to problems.
+Conduct analyses, formulate insights, and summarize and synthesize findings for presentation to the line of business management.
+Develop timely, innovative, and objective analysis, which leads to fact-based solutions for strategic business issues.
+Maintain an understanding of general business trends and requirements support area, and understand the link between analysis and project impact.
+Hands-on experience in planning, developing and managing predictive and prescriptive analytics projects/solutions.
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Assess the effectiveness and accuracy of new data sources and data-gathering techniques
+
+Qualifications and Experience:
+A minimum of a Bachelor's degree in Computer Science, statistics or a related field.
+4-6 years of working experience as a data scientist or business data analyst.
+Experience working in Francophone Countries is required.
+Maintain knowledge in statistics, mathematics and/or comparable quantitative area of expertise
+Strong knowledge of and experience with reporting packages (Business Objects etc.), databases (SQL etc.), programming (XML, JavaScript, or ETL frameworks) and using statistical packages for analysing datasets (Excel, SPSS, SAS etc.)
+Technical expertise in data models, database design development, data mining and segmentation techniques
+Strong analytical skills with the ability to collect, organise, analyse, and disseminate significant amounts of information with attention to detail and accuracy
+Adept at queries, report writing and presenting findings
+Proficient in office automation tools (e.g. Microsoft Office, etc.)
+Excellent written, interpersonal, communication and presentation skills.
+
+Language:
+Fluency in English language is required. Knowledge of the French language is required.
+Experience working in Francophone countries is compulsory
+
+Method of Application:
+
+Qualified candidates should send their CV to Africahcd@gmail.com on or before the 15th January 2023. Please state the role applied for in the subject of the email. Applications from women, people with disabilities and young people who meet the above qualifications are encouraged to apply. Only candidates who are succesful at the pre-qualification stage will be contacted for interviews. More information about DAI can be found on the DAI website: www.dai.com",On-site,621,"['SPSS', ' C/C++', 'SAS', ' PL/SQL', 'Excel', 'R', 'Javascript', ' Q-Learning', 'SQL']","['Data visualization', 'Unsupervised learning', 'Statistics', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'database management', 'Agile development', 'product development', 'Deep learning', 'Decision trees', 'Time series analysis', 'Project management', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'ETL', 'Computer vision', 'analysis', 'Regression analysis', 'Support vector machines', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'Collaboration', 'Transfer learning', 'Machine learning']",6 years,6,4 to 6 years,bachelor
+103,Data Scientist,  eHealth4everyone  ,  Abuja ,"About the job
+This job is sourced from a job board. Learn more
+Never Miss a Job Update Again.
+Company:
+Location: Nigeria
+State:
+Job type: Full-Time
+Job category:
+Job Description
+
+eHealth4everyone is a digital health enterprise based in Nigeria (Africa) contributing to health service delivery using data science and information technology. At ehealth4everyone, our goal is saving lives and our approach is information and technology. We believe that if health is a right, proven digital health solutions and expertise such as ours should not be a privilege.
+
+We Are Recruiting To Fill The Position Below
+
+Job Title: Python Data Scientist
+
+Location: Abuja (FCT)
+
+Job Summary
+The Python Data Scientist will write scripts to query and manipulate large data sets.
+S/he will support the data team in the automation of the collection and analysis of data.
+S/he will extract data from different sources, analyse it in the best way possible and draws inferences from them.
+S/he may build specific AI tools for them to automate certain processes in the company.
+Responsibilities
+Defines product objectives by gathering and analysing user requirements; envisioning system features and functionality.
+Recommends data solutions by exploring the advantages and benefits of existing development against alternative development.
+Be involved in regular testing of data scrapping scripts and software products; unit testing and final testing.
+Writes and updates software test processes and procedures.
+Coordinates (or partakes in) the coding/programming of software products and solutions with version control systems such as git.
+Develop and maintain python scripts or applications to perform data scraping using the best available libraries in python.
+Development and maintenance of data pipeline processes.
+Implement requests to APIs and develop API modules with python.
+Perform Data Analysis, mining and visualization using relevant python libraries.
+Developing data models and algorithms best suited to a particular scenario.
+Employ sophisticated analytics programs, machine learning and statistical methods to prepare data for use in predictive and prescriptive modelling.
+Develop and maintain Natural Language processing applications using python’s NLTK library concepts.
+Write and implement test scripts for python programs.
+If the lead developer for a product or solution, he/she will do the following;
+Breaks down tasks into executable units,
+Assigns tasks to team members and allocates time,
+Manages product features – backlog manager,
+Responsible for managing and enforcing coding style and collaboration standards,
+Supports and coordinates team members with appropriate review and retrospectives.
+Involves in code review and optimization, and implements reviews made on products.
+Write reusable and testable codes.
+Qualification And Skills
+A Degree in Computer Science, Information Science, Mathematics or any closely related field is required.
+Minimum of 1 year experience.
+Sound knowledge of NumPy, Pandas, MatPlotLib or NLTK libraries.
+Good knowledge of relational and structural databases and how to create database schemas that represent and support business processes.
+Understands the design principles behind a scalable application.
+Sound knowledge of version control tools such as git.
+Strong knowledge of web server exploits and their solutions.
+Passion for best design and coding practices, and a desire to develop new interesting ideas.
+Top-notch programming skills and in-depth knowledge of modern data science/machine learning and natural language processing technologies.
+Teamwork.
+Good communication skills.
+Highly organized and pays extraordinary attention to detail.
+Must have the ability to act quickly and pragmatically under pressure, prioritise and resolve issues.
+Enthusiasm and high level of motivation.
+Application Closing Date
+
+27th December, 2022.
+
+Don't Keep! Kindly Share:",On-site,559,"['Power Query', ' C/C++', 'NLTK', 'Pandas', 'sciket-learn', 'H2O.ai', 'Python', 'Git', 'Scikit-Learn', 'R', ' Q-Learning', 'NumPy']","['Data visualization', 'Unsupervised learning', 'Software engineering', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'database management', 'Agile development', 'optimization', 'product development', 'Deep learning', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Version control', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'Computer vision', 'analysis', 'Regression analysis', 'Classification algorithms', 'visualization', 'Support vector machines', 'quality control', 'mining', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Collaboration', 'Transfer learning', 'Clustering algorithms', 'Machine learning']",1 year,1,1 to 3 years,master
+108,Data Analyst,  NewGlobe  ,  Lagos ,"About the job
+Data Analyst, Schools Lagos, Nigeria Who We Are
+
+NewGlobe supports visionary governments to transform public education systems, the cornerstone of a prosperous, equitable, and peaceful society.
+
+With a comprehensive system transformation platform and data-driven educational services, NewGlobe delivers rapid and dramatic improvements in learning outcomes at the state and nationwide scales. Through building impactful partnerships and programmes, NewGlobe ensures that all children have access to an education that will develop their full potential and create a foundation for growth and prosperity.
+
+NewGlobe leverages more than a decade of educational experience and proven impact in integrated school management, teacher professional development, instructional design innovation, technological system support, child-centered classroom practice, and parent engagement -- all grounded in learning science -- to ensure each teacher is empowered to engage children in transformational learning, and all children have the opportunity to develop to their full potential. Every day, NewGlobe supports governments to solve what were once seen as intractable problems, and by doing so, ensures this generation will be able to grow up to lead more fulfilled lives, while simultaneously building economic prosperity for themselves, their communities, and the globe.
+
+NewGlobe works with urgency because youth quickly becomes adulthood and relentlessly because improvement requires continuous problem-solving. NewGlobe is honoured to serve and to help rebuild trust in public systems.
+
+NewGlobe’s work is all-encompassing and will challenge you to use your full mind, and heart, each day. We need bright minds who want to be part of building a new globe -- a more equitable globe -- to join us.
+
+Data Analytics
+
+The Data Analytics team at NewGlobe is housed within the Schools group and collaborates across departments to help leaders monitor multiple Key Performance Index (KPIs) to manage schools across programmes better. We also dig deeper into each KPI to answer how to improve current situations and to identify actionable steps for NewGlobe managers.
+
+We mainly conduct quantitative analyses on KPIs such as school leader attendance, teacher classroom coverage, pupil enrolment, and lesson completion. The heart of the work is communicating how we could improve the KPIs through various reports and support the improvement process by collaborating with NewGlobe managers.
+
+We take pride in providing rigorous data analysis and our ability to communicate clearly in words, tables, and data visualizations. We intend our work to make a difference in how NewGlobe managers and our government partners think and act. We judge our own work accordingly.
+
+About The Role
+
+We are seeking a full-time Data Analyst to join our team. We are looking for someone eager to conduct data analysis, share their expertise, and build upon a tradition of evaluation and data excellence at NewGlobe.
+
+The Data Analyst is responsible for supporting the data analysis of different descriptive analyses and reporting within the organisation. These analyses range from simple descriptive analyses using a few Excel formulas to more complex work using multiple Stata or R scripts. To do this, the Analyst will need to manage all parts of the data analysis process - from the design stage through the execution of analyses and the reporting of the findings to other internal stakeholders.
+
+The analyst is responsible for providing high-quality data products on which other colleagues can rely and build their work. As such, this role is at the core of all the Data Analytics efforts within NewGlobe. We view data and analytics as core to our ability to learn as an organisation. We want to cultivate data and analytics rock stars who produce and use data to reveal actionable insights for NewGlobe’s rapidly growing network of schools. The person in this role will receive constant coaching and mentoring from the rest of the Data Analytics team.
+
+The Data Analyst should be willing to work in Lagos, Nigeria. The Data Analyst will report to the Director of Data Analytics.
+
+What You Will Do
+
+Clean and analyse data sets. These data sets can be used to answer questions from a wide range of topics such as school leader attendance, lesson completion, and teacher classroom coverage.
+Ensure the creation of proper data pipelines and best data management practices.
+Contribute to a culture of data-driven decision-making by collaborating with various team members across programmes.
+Accommodate requests for quick analyses. Time-sensitive questions will come from the VPs and C-Level Executives and usually take anywhere from a few hours to a few days. Often, you will need to direct your staff to use their best judgment in the face of imperfect data.
+Other duties may be required by the Directors, VP of Schools, and C-level executives.
+
+What You Should Have
+
+High data literacy and a strong background in data cleaning, data management, and data analysis. Previous experiences in education management, such as being an analyst, research assistant, and data manager in public schools, is a plus.
+A high level of proficiency with Stata, SAS, or R, and Excel. Any other data analysis software or coding language is a plus. Experience with survey software like Google Forms is also a plus.
+Undergraduate degree (or its equivalent) or Master's degree – in a relevant academic discipline, for example (but not limited to) Education Policy, Public Policy, Economics, or Statistics.
+Strong communication skills and the ability to translate complex ideas for non-technical audiences – you will need effective verbal and written communication skills to provide valuable insights and reports for internal and external stakeholders.
+Belief in data-driven decision-making.
+Flexible and loves to work in a dynamic environment.
+Passion – for NewGlobe’s mission.
+Bonus – experience in extreme growth situations and dealing with complexity.
+2+ years of Experience
+
+You’re also
+
+A detailed doer – You have a track record of getting things done. You’re organized and responsive. You take ownership of every idea you touch and execute it to a fine level of detail, setting targets, engaging others, and doing whatever it takes to get the job done. You can multi-task dozens of such projects at once and never lose sight of the details. Likely, you have some experience in a start-up or other rapid-growth company.
+A networking mastermind – You excel at meeting new people and turning them into advocates. You communicate in a clear, conscientious, and effective way in both written and oral speech. You can influence strangers in the course of a single conversation. Allies and colleagues will go to bat for your ideas. You have an existing network from prior experience in the country, preferably in the regulatory, education, or business sectors.
+A creative problem-solver – Growing any business from scratch comes with massive and constant challenges. On top of that, NewGlobe works in often fragile, sometimes volatile, low-resource communities and with complex government systems. You need to be flexible and ready to get everything done effectively, quickly, and affordably with the materials at hand.
+A relentless advocate –The children we serve and teachers we empower never leave your mind. You know them, get them, have shared a meal with them (or would be happy to in the future). You would never shrink back from shaking a parent’s hand or picking up a crying child, no matter what the person was wearing or looked like. Every decision you make considers their benefit, experience, and value.
+A malleable learner –You believe you can always do better. You welcome constructive criticism and provide it freely to others. You know you only get better tomorrow when others point out where you’ve missed things or failed today.
+A curious investigator – You ask why a lot. You don’t just take what you see and accept it. You wonder why it is that way, and are aware that the world we see is created by human choices and actions – and it could be different. You wonder, and see the world as wonderful even when you want to change a part of it that is unjust.",On-site,1304,"[' C/C++', 'SAS', 'sciket-learn', 'Excel', 'R', 'Scikit-Learn', 'Google Cloud', ' Q-Learning', 'KPI']","['Data visualization', 'Unsupervised learning', 'Statistics', 'Software engineering', 'Data interpretation', 'communication', 'Natural language processing', 'Reinforcement learning', 'database management', 'Agile development', 'product development', 'Deep learning', 'Decision trees', 'Time series analysis', 'Project management', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'analysis', 'Regression analysis', 'Support vector machines', 'quality control', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'Transfer learning', 'Machine learning']",Not Specified,0,Not Specified,master
+114,Business Analyst,  Alpha Mead Group  ,  Nigeria  ,"About the job
+Company Description
+
+Alpha Mead Group is a Total Real Estate Solutions Company established to provide robust business support services to local and international Real Estate investors or owners with interests in Facilities Management, Real Estate Development and Advisory, Security Systems and Technologies, Training, Healthcare Management and Real Estate Financing Services.
+
+As a business analyst, you will be responsible for analyzing and interpreting data to help inform strategic business decisions. You will collaborate with various stakeholders across the organization to identify areas for improvement and provide actionable recommendations.
+
+The successful candidate will be working with the strategy and planning team of the organizatiion to develop analyses that will lead to actionable insights that will enable the acceleration of the profitable growth of the organization.
+
+Job Description
+
+Design key performance indicators, measure the performance of departments/subsidiaries, analyze customer behavior and trends, mine and analyze departmental and organizational performance data, and study competitors to improve performance.
+Wrangle data from multiple sources including sales, operations, customer databases, macro economy, competition to create integrated views that can be used to drive decision making
+Create (design and build) reports and analyses using Excel and PowerPoint.
+Analyze financial statements and related data to identify investment priorities for top management, and provide guidance to management on the effectiveness of various initiatives and investments.
+Conduct research and special studies on potential new ventures proposed by management; assess their profitability, ROI, ROE, and other relevant indices x in order to evaluate strategic growth opportunities such as acquisitions, partnerships, investments, etc
+Collaborate on conducting competitive and market analysis by region, geographic area, and industry, and linking strategic projects with implications and potential outcomes for the Business Units.
+Support the creation of monthly and quarterly reports on the business environment, macroeconomics, and industry trends for General Managers, facilitating their ability to make informed decisions that will provide the organization with a competitive edge in the marketplace.
+Support the creation of monthly/quarterly reports on the business environment, macroeconomic conditions, and industry trends to provide General Managers with insights into making strategic decisions that gives the organization a competitive advantage in the marketplace.
+Assist to coordinate quarterly and annual business strategy and performance reviews for various subsidiaries of the organization.
+Qualifications
+
+Bachelor's degree in Mathematics, Economics, Business Administration, Finance, Economics, or related field
+2 - 3 years' experience as a Business Analyst, Data Analyst or in a similar role
+Experience working with data analysis and reporting
+Excellent analytical skills with the ability to collect, organize and analyze large amounts of data from various sources.
+Proficiency in data analysis tools and software
+Strong communication skills, both written and verbal, with the ability to present complex data and insights in a clear and concise manner, especially to non-technical stakeholders
+Strong problem-solving skills and ability to identify areas of improvement
+Experience in project management and working in cross-functional teams
+Ability to work independently and in a team-oriented environment
+Strong organizational and time-management skills",On-site,489,"['Excel', 'R', ' C/C++']","['Data visualization', 'Software engineering', 'Data interpretation', 'communication', 'database management', 'Agile development', 'product development', 'Decision trees', 'Project management', 'Time series analysis', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'security', 'analysis', 'Regression analysis', 'Support vector machines', 'Continuous integration and deployment (CI/CD)', 'decision trees']",3 years,3,1 to 3 years,bachelor
+116,Business Analyst,  HP  ,  Lagos ,"About the job
+We are looking for a Business Analyst and Planner into our Africa Print Category organization to support our growth ambition with the professional Process of Management that is designed and operated with the right tools and reports.
+
+The ideal candidate will work in a talented environment with a team of 8-10 people.
+
+Responsibilities
+Manages complex data and business analyses to develop business plans and make recommendations.
+Works independently to construct complex statistical and financial models to forecast business performance.
+Defines the metrics required to measure business performance, compares actual data to forecasted values, and develops the process for identifying and addressing performance gaps.
+Manages complex, time- sensitive market research projects and synthesizes data and information to identify relevant trends and next steps.
+Works with cross-functional teams across the entire span of business planning activities.
+Contributes to priority projects with complex analyses and assists in developing recommendations.
+Works closely with business leaders to develop business plans based on historical and forecasted data and reports.
+Develops go-forward business plan recommendations based on potential risks and returns.
+Identifies cutting-edge analytical tools, models, and methods for making key business decisions.
+Education And Experience Required
+
+Typically 4-6 years experience in strategy, planning, operations, finance, or related functional area. First level university degree.
+
+Knowledge And Skills
+Demonstrated knowledge of research methodology and the ability to manage complex data requests.
+Excellent analytical thinking, technical analysis, and data manipulation skills.
+Ability to learn and draw on new analytical techniques to develop creative approaches to business analysis.
+Extensive knowledge of Excel, Access, statistical analysis, and financial modeling.
+Strong business acumen and technical knowledge within area of responsibility.
+Very strong verbal and written communication skills.
+Strong project management skills.
+Developed relationship management skills.
+Ability to lead cross-functional teams.
+Ability to identify and summarize relevant trends from market and industry data.
+About HP
+
+You’re out to reimagine and reinvent what’s possible—in your career as well as the world around you.
+
+So are we. We love taking on tough challenges, disrupting the status quo, and creating what’s next. We’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.
+
+HP is a technology company that operates in more than 170 countries around the world united in creating technology that makes life better for everyone, everywhere.
+
+Our history: HP’s commitment to diversity, equity and inclusion – it's just who we are.
+
+From the boardroom to factory floor, we create a culture where everyone is respected and where people can be themselves, while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you’re more innovative and that helps grow our bottom line. Come to HP and thrive!",Hybrid,473,"[' C/C++', 'sciket-learn', 'Excel', 'R', 'Scikit-Learn']","['manipulation', 'Data visualization', 'Time series analysis', 'Exploratory data analysis', 'Project management', 'Data engineering', 'Continuous integration and deployment (CI/CD)', 'modeling', 'analysis', 'Regression analysis', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'Support vector machines', 'database management']",6 years,6,4 to 6 years,Not Specified
+117,Data Architect,  Crossover  ,  Lagos ,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Totogi. Have you got what it takes?
+
+Are you an expert at solving complex technical issues and debugging shoddy code? Have you paid your dues in the telecommunications industry and found yourself looking for the next step?
+
+Totogi is disrupting this multibillion-dollar telco industry by introducing the world’s most advanced customer management system, which allows our enterprise customers to scale at an unprecedented pace. We’re looking for telecommunications technicians to help us deliver this service to our customers.
+
+Unlike in most companies, you won’t just sit around all day pulling tickets and wondering whether you’re doing them correctly. In this role, you will maximize the utility of your technical toolbox to solve the most complicated customer implementation problems in our organization.
+
+If you want to hitch your career to a rocket, join Totogi’s technical delivery team!
+
+What You Will Be Doing
+
+Implementing new features on existing software products by solving complex technical issues and making appropriate decisions
+Solving complex implementation problems and bug fixes independently with minimal guidance
+
+What You Won’t Be Doing
+
+Interfacing directly with customers
+Non-technical tasks; this is a role for those who love coding and want to dedicate time to solving complex technical issues
+
+Basic Requirements
+
+Solutions Architect key responsibilities
+
+At least 5 years of technical experience in the telecommunications industry
+Basic coding ability (in any language) and experience using MySQL
+Proficiency in at least 3 of the following technologies: Gitlab, Jenkins, Chaos Monkey, Kubernetes, Grafana, Redis, Hazelcast, Kiali, Active MQ, Artemis, Kafka, Bootstrap, EJB, jBPM, Hibernate, Oracle, PostgreSQL, JQuery, FTL, Struts, Core Java, Hibernate, Spring Boot, Apache Tomcat, JSP, Spring MVC, Angular, Drools, PHP, NodeJS, Yarn, Airflow, Hive, Scala, Hadoop
+
+About Totogi
+
+Totogi is focused on building telco software for the public cloud and is completely redefining how carriers engage with their subscribers to drive customer love! We are a product-driven telco software company made up of some of the best minds from the telecoms industry and the brightest engineering talent across the globe. Change the game with us.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-4943-NG-Lagos-SolutionsArchi.001",Remote,619,"['Kafka', 'MySQL', 'jQuery', 'Scala Spark', ' C/C++', 'sciket-learn', 'Google Cloud', 'Redis', 'Airflow', 'Scikit-Learn', 'Hadoop', 'Java', 'Kubernetes', 'Scala', 'Apache', 'PostgreSQL', ' Bootstrap', 'R', 'Apache Spark', 'Hive']","['Project management', 'Time series analysis', 'Data engineering', 'feature engineering', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'Cloud computing', 'A/B testing', 'Debugging', 'Natural language processing', 'database management', 'product development']",5 years,5,4 to 6 years,Not Specified
+120,Business Analyst,  Glovo  ,  Lagos ,"About the job
+About Glovo
+
+We’re a Barcelona-based startup and the fastest-growing delivery player in Europe, Africa, and Western Asia. With food at the core of the business, Glovo delivers any product within your city at any time of day.
+
+At Glovo, you’ll have the job of your life while working together towards our shared vision to give everyone easy access to anything in their city. We welcome top performers that will bring new ideas, diverse perspectives, and provide you the opportunities and freedom to grow and make a real impact on millions of lives… all while having fun!
+
+We believe that diversity adds incredible value to our teams, our products, and our culture. We know that the best ideas and solutions come by bringing together people from all over the world and by fostering a culture of inclusion where everyone feels heard and has the chance to make a real impact. It's because of this that we are committed to providing equal opportunities to talent from all backgrounds.
+
+In your application, please feel free to note which pronouns you use (For example: she/her/hers, he/him/his, they/them/theirs, etc).
+
+Your Work-life Opportunity
+
+We are looking for a world-class Sr Growth Analyst to become part of our local team. Are you able to translate data into actionable insights? Are you looking for a challenging experience in the fast and rapidly changing environment helping to build a product that will disrupt the On-demand market? If your answer is YES we are looking forward to meeting you.
+
+Be a Part Of a Team Where You Will
+Understand business needs and create insightful analysis helping your team to make the right decisions
+Drive projects end-to-end translating business challenges into insights and actions
+Identify growth opportunities to increase our user base, step change retention rates and maximize profitability
+Take ownership of the reporting of KPIs by creating customized tools and using the available ones
+Ensure these tools are scalable and up-to-date
+Assist your colleagues in gaining access to the right data
+You Have
+3 years of work experience on analytical roles leading analysis and turning insights into actions
+Ninja expertise with Excel / Google Sheets is a must
+SQL proficiency is mandatory / Python is a plus
+Knowledge of visualization tools like Tableau, Looker or Qlikview is a plus
+Must have strong business acumen and passion for end-to-end project management (from ideation and analysis into implementation).
+Hands-on attitude is a must. You’ll have to roll up your sleeves!
+Proficiency in English are a must
+We are always looking for the best candidates, so if you think you would be a good fit even if you don't meet 100% of the requirements we would love to hear from you!
+
+Experience Our Glovo Life Benefits
+Enticing equity plan (if applicable)
+Top-notch private health insurance
+Monthly Glovo credit to spend on our restaurant products and zero delivery fee on all Glovo orders!
+Discounted gym memberships
+Flexible time off (take the time you need) and hybrid working model (own your time)
+Enhanced parental leave including nursery support!
+Online therapy and wellbeing benefit
+External learning budget
+What You’ll Find When Working At Glovo
+Gas: Driven to deliver quality results quickly
+Good Vibes: Bring positivity and communicate openly
+Stay Humble: Self-aware and open to learning
+Care: Uplift people and the planet
+Glownership: Act as proud owners
+High Bar: Focus on Top Performance
+If you believe you match these values, we look forward to meeting you!
+
+Wanna take a peek into what it's like to work at Glovo? Follow us on Instagram and like us on Facebook!
+
+Glovo is transforming the way consumers access local goods, enabling anyone to get almost any product delivered in minutes. Our on-demand logistics connect customers with independent local couriers who acquire goods from any restaurant or store in a city, as well as deliver urgent packages for a variable fee. For additional information on Glovo, please visit https://about.glovoapp.com/",On-site,650,"[' C/C++', 'Python', ' PL/SQL', 'Excel', 'R', 'Google Cloud', 'Tableau', ' Q-Learning', 'SQL']","['Data visualization', 'Unsupervised learning', 'Data interpretation', 'Reinforcement learning', 'database management', 'product development', 'Deep learning', 'Project management', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Supervised learning', 'Exploratory data analysis', 'Computer vision', 'analysis', 'Regression analysis', 'visualization', 'Support vector machines', 'quality control', 'Ensemble learning', 'Continuous integration and deployment (CI/CD)', 'Transfer learning', 'Machine learning']",3 years,3,1 to 3 years,Not Specified
+121,Data Analyst,  Turing  ,  Lagos ,"About the job
+A multinational, U.S.-based big wig that has been operating in the pharmaceutical industry for over a century is looking to hire a Tableau Developer. The candidate is expected to improve business processes by creating cutting-edge computer systems and data visualization solutions. The NYSE-listed company has been spearheading medical innovation, manufacturing and distributing best- in- class pharma products, and helping people track their health via innovative digital tools. The ideal candidate should be exclusively based out of the Latin-American region.
+
+Job Responsibilities:
+
+Design, develop, and maintain complex Tableau reports to ensure scalability, manageability, and extensibility
+Conduct unit testing to improve performance and re-useability
+Lend your technical expertise in the field of design, architecture, and implementation
+Collaborate with software architects to determine the best implementation of their design
+Develop useful reports and dashboards to extract insightful data
+Work with other stakeholders to improve/automate engineering processes
+Analyze user feedback and review to drive results that meet/exceed user expectations
+Adhere to software coding guidelines and styles to ensure consistency
+Resolve Tableau report support tickets
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a Tableau Developer
+Demonstrable expertise in developing and handling Tableau-driven dashboards and analytics
+Ability to maximize workbook performance while querying and displaying large data sets
+Experience with interpreting technical and dashboard structures to create technical specifications from complex business requirements
+Familiarity with Tableau administrator/architecture
+Expert-level skill in Tableau development
+Highly competent in Excel (macros, pivot tables, etc.).
+Understanding of advanced calculations and statistical functions
+Thorough understanding of SQL and relational database management systems
+Strong knowledge of data modeling and normalization
+Prior experience working with QA, testing, and coding
+Excellent English communication skills
+Accuracy and attention to detail
+Experience collaborating with cross-functional teams
+Multitasking ability",Remote,296,"[' C/C++', ' PL/SQL', 'Excel', 'R', 'Tableau', 'SQL']","['Project management', 'Data visualization', 'Exploratory data analysis', 'Data engineering', 'feature engineering', 'Computer vision', 'Software engineering', 'Continuous integration and deployment (CI/CD)', 'modeling', 'A/B testing', 'Business intelligence', 'Data interpretation', 'communication', 'visualization', 'Support vector machines', 'database management', 'Agile development', 'product development']",Not Specified,0,Not Specified,bachelor
+123,Data Architect,  Andela  ,  Lagos ,"About the job
+About Andela
+
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world.
+
+For technologists, Andela offers competitive long term career opportunities with leading organizations, access to a global community of professionals, and education opportunities with leading technology providers.
+
+For companies, Andela provides access to a global network of fully integrated team members that unlock their business’ innovation and growth potential.
+
+At Andela, we are deeply passionate about creating long-lasting and transformative growth opportunities for all and doing it in an E.P.I.C. [andela.com/careers] way.
+
+We are excited to continue building our remote first team with incredible people like you!
+
+About The Role
+We are looking for a Solutions Architect to join one of our most important clients. The ideal candidate will be responsible for: Design, maintaining, and/or enhancing the Application, Portfolio management methodologies, standards, and tooling for the Zone platform team that
+guarantees best practices.
+Research, analyze, propose, design and deliver fit-for-purpose solution architectures across business functions/processes and technical domains.
+Identify innovation opportunities and developments drawing on inputs from the business, across Solutions, external thought leaders, and vendors.
+Lead the effort to analyze integrated systems and recommend appropriate hardware, software, and communication links required to support solutions goals and strategy.
+Responsible for the quality of, and adherence to, the overall solution design of several related products delivered by suppliers.
+Guard the health of the products’ common platforms – ensuring reuse and redesign where needed, proper capacity sizing, and respecting limits of cloud platforms.
+The role will report to the Lead Solution Architect and work together with several product squads and Enterprise Architects.
+
+Responsibilities
+Serve as the contact point for all technology-shaping requests in a business domain.
+Provide education to team members on solution architecture directions and goals.
+Evaluate and communicate the impacts of architectural decisions (technology selection, design).
+Lead all supplier architectural efforts, utilizing cross-functional knowledge (strategy, change management, and business process management) for project implementation.
+Lead effort to identify and analyze business drivers to derive business, information, application,
+infrastructure, and security architecture requirements.
+Develop an architecture approach for all applicable layers of a solution.
+Lead effort to work with business users, enterprise architects, software architects and application developers to develop the overall solution architecture.
+Assist in developing architectural best practices and standards, including template definitions.
+Provide leadership and technical guidance to software/solution architects at suppliers.
+Promote & leverage the use of solution architecture standards, policies, and procedures across development in projects and programs as an active participant of the ABI internal architecture community (chapter).
+Review the deliverables throughout the development cycle to ensure quality, traceability to requirements, and adherence to all quality management plans and standards.
+Lead effort to review and provide input on proposals from an architectural perspective, including feasibility, practicality, technical viability, and consistency.
+Assess and recommend infrastructure and technical solutions for upgrades to meet business needs.
+
+Qualifications
+5+ years' of relevant experience
+Master’s degree in Computer Science / Computer Engineering / Software Engineering or similar degree / through experience.
+Demonstrable experience in designing custom, complex enterprise solutions across various architecture domains.
+Deep knowledge of solution architecture discipline, processes, concepts, and best practices.
+Advanced understanding of IT industry trends, enterprise standards, and methodology.
+Experience in structuring and facilitating the process of innovation within an IT function
+Understanding of an IT product development lifecycle / IT project delivery methodologies (Agile, Waterfall)
+Datacenter architecture principles, basic knowledge, and experience with MS Azure or AWS are a plus.
+Knowledge and experience in ABAP and/or Java programming languages, C# is a plus.
+Experience building web applications, knowledge, and experience with HTML5 and/or JavaScript is a plus.
+Experience working with development toolsets and frameworks (e.g. .NET) is a plus.
+Experience working with SAP products (ERP 6.0, SAP S/4HANA), SFDC platform, and integration technologies (MuleSoft, SAP PO) is a plus.
+
+At Andela, we outcompete through diversity. We know that our strengths lie in the multiplicity of talents, perspectives, backgrounds & orientations resident in our community and we take pride in that. Andela is committed to a work environment in which all individuals are treated with respect and dignity. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities and workplace to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Our policies expressly prohibit any form of harassment and/or discrimination as stated above.
+
+
+Andela is home for all, come as you are.",Hybrid,835,"['Azure', ' C/C++', 'Javascript', 'Agile', 'R', 'AWS', 'Google Cloud', 'Java', 'AWS S3', 'SAP']","['Software engineering', 'Cloud computing', 'communication', 'database management', 'Agile development', 'product development', 'Deep learning', 'Project management', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'feature engineering', 'Computer vision', 'security', 'Support vector machines', 'quality control', 'Continuous integration and deployment (CI/CD)', 'Transfer learning']",Not Specified,0,Not Specified,bachelor
+132,Data Analyst,  Flutterwave  ,  Lagos ,"About the job
+This job is sourced from a job board. Learn more
+Never Miss a Job Update Again.
+Company:
+Location: Nigeria
+State:
+Job type: Full-Time
+Job category:
+Job Description
+
+Flutterwave was founded on the principle that every African must be able to participate and thrive in the global economy. To achieve this objective, we have built a trusted payment infrastructure that allows consumers and businesses (African and International) make and receive payments in a convenient border-less manner.
+
+We Are Recruiting To Fill The Position Below
+
+Job Title: Data Analyst
+
+Location: Lekki, Lagos
+
+Employment type: Full-time
+
+Department: Data Team
+
+The Role
+We are seeking a highly skilled and motivated Data Analyst with a minimum of 3 years of experience to join our team.
+You are an individual who is passionate about data, driven to make a difference, and eager to solve complex problems?
+In this role, you will have the opportunity to analyze data, provide insights, and drive decision-making. You will be a key member of the team and will play a vital role in shaping the future of our company.
+Principal Duties And Responsibilities
+Develop and deliver analytics reporting and Business Intelligence dashboards as required by business areas.
+Interpreting data and analysis into impactful, action-orientated reports for internal stakeholders.
+Promote a data-driven organization and empower teams with actionable data and automated and intuitive KPI dashboards.
+Develop strong cross-functional partnerships across the company (Engineering, Product, Finance, Marketing, Operations, etc.)
+Support the team and/or other analysts in the design, construction, and implementation of appropriate analytical processes which support business objectives.
+Interface with business teams to understand their data requirements and provide them with actionable insights and reports.
+Communicate key findings and insights to both technical and non-technical stakeholders using storytelling techniques
+Perform ETLs as may be required
+Competency And Skill Requirements
+Bachelor’s Degree in Computer Science or other related fields of core Sciences or equivalent experience.
+Minimum of 3 years experience working as a data analyst.
+Experience with Power BI, Tableau, or similar tools for data visualization.
+Familiarity with SQL and working with relational databases. Python would be a plus.
+Exceptional communication/interpersonal skills to articulate ideas, frame problems, and offer solutions. Strong leadership track record with the ability to work effectively with leadership teams.
+Experience with A/B or multivariate testing.
+A balanced strategic and tactical thinker with strong presentation, problem-solving, and analytical skills.
+Able to manage multiple cross-functional projects across different departments.
+Strong attention to detail, results-driven with high accuracy of output
+Authorization to work in the country without sponsorship.
+Application Closing Date
+
+Not Specified.
+
+Don't Keep! Kindly Share:",On-site,428,"['Power Query', 'Power BI', ' C/C++', 'sciket-learn', 'Python', ' PL/SQL', 'R', 'Scikit-Learn', 'Tableau', 'SQL', 'KPI']","['Data visualization', 'Software engineering', 'Data interpretation', 'communication', 'product development', 'Decision trees', 'Time series analysis', 'Python programming', 'A/B testing', 'Business intelligence', 'Data engineering', 'Exploratory data analysis', 'feature engineering', 'Computer vision', 'analysis', 'Regression analysis', 'visualization', 'Support vector machines', 'Continuous integration and deployment (CI/CD)', 'decision trees', 'storytelling']",3 years,3,1 to 3 years,bachelor

@@ -1,0 +1,18 @@
+Plots
+Tools - bar 
+Skills - bar 
+Experience - bar
+Education - pie 
+Work type - pie
+Sector - bar 
+
+Job titles 
+Data analyst 
+Data Engineer
+ML engineer
+Business analyst 
+Data architect
+Data scientist
+
+
+Sort the bar from highest to lowest
