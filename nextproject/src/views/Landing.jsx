@@ -15,19 +15,18 @@ function Landing() {
       sx={{
         display: "grid",
         placeItems: "center",
-        height: "89.4vh",
+        height: "100vh",
         maxHeight: "100vh",
       }}
       container
     >
-      <Grid width="100vw" item>
+      <Grid width="100vw" md={12} xs={12} item>
         <Box
           component="div"
           sx={{
             display: "grid",
             placeItems: "center",
           }}
-          m={4}
         >
           <Typography
             variant="h2"
@@ -35,6 +34,7 @@ function Landing() {
             component="h1"
             color="white"
             textAlign="center"
+            sx={{ fontSize: { md: "70px", xs: "25px" } }}
           >
             Nigeria Data Professional Ecosystem
           </Typography>
