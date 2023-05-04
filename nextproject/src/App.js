@@ -35,7 +35,7 @@ function App() {
     <AppContextState.Provider
       value={{ page, setPage, to, setTo, data, setData }}
     >
-      <Box component="div" id="swup" className="main home transition-fade">
+      <Box component="div"  className="main home">
         <Links />
         <Router />
       </Box>
