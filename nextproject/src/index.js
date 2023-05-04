@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Swup from "swup";
 import "./index.css";
 import "./assests/styles/main.css";
 import App from "./App";
@@ -8,7 +7,6 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-const swup = new Swup();
 root.render(
   <React.StrictMode>
     <BrowserRouter>
