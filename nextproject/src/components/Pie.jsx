@@ -1,7 +1,7 @@
 import { Pie } from "react-chartjs-2";
 import { Box } from "@mui/material";
 
-export const PieChart = ({ chart, heading, options }) => {
+export const PieChart = ({ graph, heading, options }) => {
   return (
     <Box component="div" mb={6} sx={{ height: "32vh", position: "relative" }}>
       <h3>{heading}</h3>
@@ -14,7 +14,7 @@ export const PieChart = ({ chart, heading, options }) => {
               datalabels: {
                 formatter: (value, ctx) => {
                   let sum = 0;
-                  let dataArr = ctx.chart.data.datasets[0].data;
+                  let dataArr = ctx.chart.data.datasets[ctx.datasetIndex].data;
                   dataArr.map((data) => {
                     return (sum += data);
                   });
@@ -30,10 +30,10 @@ export const PieChart = ({ chart, heading, options }) => {
           },
         }}
         data={{
-          labels: Object.keys(chart),
+          labels: Object.keys(graph),
           datasets: [
             {
-              data: Object.values(chart),
+              data: Object.values(graph),
               backgroundColor: ["#4a148c", "#0d47a1", "#f57f17"],
               borderColor: ["#ba68c8", "#64b5f6", "#fff176"],
               borderWidth: 1.5,

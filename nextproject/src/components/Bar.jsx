@@ -1,7 +1,7 @@
 import { Bar } from "react-chartjs-2";
 import { Box } from "@mui/material";
 export const BarChart = ({
-  chart,
+  graph,
   heading,
   options,
   color1,
@@ -21,19 +21,19 @@ export const BarChart = ({
                 stacked: true,
                 min: 0,
                 max:
-                  Number(Math.max(...Object.values(chart))) % 2 === 0
-                    ? Number(Math.max(...Object.values(chart))) + 2
-                    : Number(Math.max(...Object.values(chart))) + 1,
+                  Number(Math.max(...Object.values(graph))) % 2 === 0
+                    ? Number(Math.max(...Object.values(graph))) + 2
+                    : Number(Math.max(...Object.values(graph))) + 1,
               },
             },
           },
         }}
         data={{
-          labels: Object.keys(chart),
+          labels: Object.keys(graph),
           datasets: [
             {
               label: label,
-              data: Object.values(chart).sort((a, b) => b - a),
+              data: Object.values(graph).sort((a, b) => b - a),
               backgroundColor: color1,
               borderColor: color2,
               borderWidth: 1,
