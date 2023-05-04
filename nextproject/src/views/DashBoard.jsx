@@ -68,6 +68,7 @@ function DashBoard() {
       key: "experience",
       value: exper,
     });
+    
     const edu = handleGetData(chart, "Education_Level", role);
     setData({
       type: "Get_Data",
@@ -152,7 +153,7 @@ function DashBoard() {
                     options={options}
                     heading="Education"
                     role={role}
-                    chart={education}
+                    graph={education}
                   />
                 ) : (
                   <p>
@@ -164,7 +165,7 @@ function DashBoard() {
                     options={options}
                     heading="Workplace Type"
                     role={role}
-                    chart={workType}
+                    graph={workType}
                   />
                 ) : (
                   <p>
@@ -185,7 +186,7 @@ function DashBoard() {
                   {tool && Object.keys(tool).length > 0 ? (
                     <BarChart
                       role={role}
-                      chart={tool}
+                      graph={tool}
                       heading="Tools"
                       options={options}
                       color1={["#0d47a1"]}
@@ -196,7 +197,7 @@ function DashBoard() {
                   {skills && Object.keys(skills).length > 0 ? (
                     <BarChart
                       role={role}
-                      chart={skills}
+                      graph={skills}
                       heading="Skills"
                       options={options}
                       color1={["#827717"]}
@@ -209,7 +210,7 @@ function DashBoard() {
                   {sectors && Object.keys(sectors).length > 0 ? (
                     <BarChart2
                       options={options}
-                      chart={sectors}
+                      graph={sectors}
                       role={role}
                       heading="Sector"
                       label={`Sectors that require a ${role}`}
@@ -221,7 +222,7 @@ function DashBoard() {
                   )}
                   {experience && Object.keys(experience).length > 0 ? (
                     <BarChart3
-                      chart={experience}
+                      graph={experience}
                       options={options}
                       heading="Experience"
                       label={`Years of Experience required for  ${role}`}
