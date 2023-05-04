@@ -68,7 +68,7 @@ function DashBoard() {
       key: "experience",
       value: exper,
     });
-    
+
     const edu = handleGetData(chart, "Education_Level", role);
     setData({
       type: "Get_Data",
@@ -102,7 +102,6 @@ function DashBoard() {
       field: e.target.name,
       payload: e.target.value,
     });
-    getChart();
   };
 
   useEffect(() => {
